@@ -9,4 +9,90 @@ PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K
 Reinitialized existing Git repository in C:/Users/Mitch[0Ke
 PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K
 [0K[?25hg[0Ki[0Kt[0K[5G[?25lgit p[0K[?25hu[0Ks[0Kh[0K[10G[9G[?25lgit pus[0K[?25h[?25lgit pu[0K[?25h[?25lgit p[0K[?25h[?25lgit[0K[5G[?25h[?25lgit a[0K[?25hd[0Kd[0K[9G[?25lgit add .[0K[?25h[?25l
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[?25l
+[0K[?25hg[0Ki[0Kt[0K[5G[?25lgit c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[12G[?25lgit commit -[0K[?25hm[0K[15G[?25lgit commit -m "[0K[?25hI[0KC[0K"[0K[?25l
+[0K[?25h[master (root-commit) 2bb46ba] IC[0K[?25l
+ 7 files changed, 1293 insertions(+)[0K
+ create mode 100644 .Rproj.user/9876BC36/console06/D276[0K6
+CE4[0K
+ create mode 100644 .Rproj.user/9876BC36/console06/INDE[0KX
+001[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-[0Kc
+hunk-names[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 facebook.Rmd[0K
+ create mode 100644 facebook.Rproj[0K
+ create mode 100644 facebook_poli.csv[0K
+PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K
+[0K[?25hg[0Ki[0Kt[0K[5G[?25lgit r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[12G[?25lgit remote a[0K[?25hd[0Kd[0K[16G[?25lgit remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[23G[?25lgit remote add origin h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K/[0KJ[0Ke[0Kr[0Kr[0Ky[0KT[0Ku[0Kc[0Ka[0Ky[0K/[0Kf[0Ka[0Kc[0K[0Ke[?25l
+[0K[?25hb[0Ko[0Ko[0Kk[0K[?25l
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[?25l
+[0K[?25hg[0Ki[0Kt[0K[5G[?25lgit p[0K[?25hu[0Ks[0Kh[0K[10G[?25lgit push -[0K[?25hu[0K[13G[?25lgit push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[20G[?25lgit push -u origin m[0K[?25ha[0Ks[0Kr[0Ke[0K[?25lgit push -u origin masr[0K[?25h[?25lgit push -u origin mas[0K[?25ht[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 14, done.[0K[?25l
+Counting objects: 100% (14/14), done.[0K
+Delta compression using up to 4 threads[0K
+[0K[?25hCompressing objects: 100% (9/9), done.[0K[?25l
+Writing objects:  92% (13/14)[0K[1G[?25hWriting objects: 100% (14/14), 25.62 KiB | 624.00 KiB/s[0K,[?25l
+ done.[0K
+Total 14 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/JerryTucay/facebook[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' [0Kf[?25l
+rom 'origin'.[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[?25l
+[0K[?25hg[0Ki[0Kt[0K[5G[?25lgit c[0K[?25hh[0Ke[0Kk[0Kc[0K[?25lgit chek[0K[?25h[?25lgit che[0K[?25hc[0Kk[0Ko[0Ku[0Kt[0K[14G[?25lgit checkout -[0K[?25hb[0K[17G[?25lgit checkout -b p[0K[?25hr[0Ke[0Ka[0K[?25lgit checkout -b pre[0K[?25h[?25lgit checkout -b pr[0K[?25h[?25lgit checkout -b p[0K[?25he[0Ke[0Kr[0K-[0Kr[0Ke[0Kv[0Ki[0Ke[0Kw[0K[?25l
+[0K[?25hSwitched to a new branch 'peer-review'[0K[?25l
+M       .Rproj.user/9876BC36/console06/D2766CE4[0K
+M       .Rproj.user/9876BC36/console06/INDEX001[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hi[0Kt[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git b[0K[?25hr[0Ka[0Kc[0Kn[0K[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git brac[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git bra[0K[?25hn[0Kc[0Kh[0K[?25l
+[0K[?25h  master[0K[?25l
+* [0;32mpeer-review[0m[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> l[0K[?25hs[0K[?25l
+[0K[?25h[?25l
+[0K
+    Directory: C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook[0K
+[0K
+[0K
+Mode                LastWriteTime     Length Name[0K
+----                -------------     ------ ----[0K
+-a---        05/03/2019  08:35 AM         44 .gitignore[0K
+[0K[?25h-a---        05/03/2019  08:35 AM          0 .Rhistory[0K[?25l
+-a---        05/03/2019  07:55 AM       6943 facebook.Rmd[0K
+[0K[?25h-a---        05/03/2019  08:35 AM        218 facebook.Rproj[0K[?25l
+-a---        04/29/2019  03:50 PM      71832 facebook_poli.csv[0K
+[0K
+[0K
+PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> l[0K[?25hs[0K[?25l
+[0K[?25h[?25l
+[0K
+    Directory: C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook[0K
+[0K
+[0K
+Mode                LastWriteTime     Length Name[0K
+----                -------------     ------ ----[0K
+[0K[?25h-a---        05/03/2019  08:35 AM         44 .gitignore[0K[?25l
+-a---        05/03/2019  08:35 AM          0 .Rhistory[0K
+-a---        05/03/2019  07:55 AM       6943 facebook.Rmd[0K
+-a---        05/03/2019  08:35 AM        218 facebook.Rproj[0K
+-a---        04/29/2019  03:50 PM      71832 facebook_poli.csv[0K
+[0K
+[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> v[0K[?25hi[0Km[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> vim f[0K[?25ha[0Kc[0Ke[0Kb[0Ko[0Ko[0Kk[0K.[0Kr[0Km[0Kd[0K[?25l
+[0K[?25h[0;31;91mvim : The term 'vim' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the [0m[0K[?25l
+[0;31;91mspelling of the name, or if a path was included, verify that the path is correct and try again.[0m[0K
+[0;31;91mAt line:1 char:1[0m[0K
+[0;31;91m+ vim facebook.rmd[0m[0K
+[0;31;91m+ ~~~[0m[0K
+[0;31;91m    + CategoryInfo          : ObjectNotFound: (vim:String) [], CommandNotFoundException[0m[0K
+[0K[?25h[0;31;91m    + FullyQualifiedErrorId : CommandNotFoundException[0m[0K[?25l
+[0;31;91m [0m[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25l[8A[0;31;91mvim : The term 'vim' is not recognized as the name of a cmdlet, function, script f[0Ki
+spelling of the name, or if a path was included, verify that the path is correct a[0Kn
+At line:1 char:1[0m[0K
+[0;31;91m+ vim facebook.rmd[0m[0K
+[0;31;91m+ ~~~[0m[0K
+[0;31;91m    + CategoryInfo          : ObjectNotFound: (vim:String) [], CommandNotFoundExce[0Kp
+    + FullyQualifiedErrorId : CommandNotFoundException[0m[0K
+[0;31;91m [0m[0K
+PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hi[0Kt[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git a[0K[?25hd[0Kd[0K[65G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git add .[0K[?25h[?25l
 [0K[?25h

@@ -192,3 +192,5 @@ tree.bebe
 plot(tree.bebe2)
 text(tree.bebe2, pretty = 0)
 ```
+
+*reviewed by [Kevin](https://github.com/kbuffardi)*
