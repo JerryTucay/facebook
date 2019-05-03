@@ -95,4 +95,23 @@ At line:1 char:1[0m[0K
     + FullyQualifiedErrorId : CommandNotFoundException[0m[0K
 [0;31;91m [0m[0K
 PS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hi[0Kt[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git a[0K[?25hd[0Kd[0K[65G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git add .[0K[?25h[?25l
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hi[0Kt[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[68G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git commit -[0K[?25hm[0K[71G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git commit -m "[0K[?25hr[0Ke[0Kv[0Ki[0Ke[0Kw[0K"[0K[?25l
+[0K[?25h[peer-review dc47a45] review[0K[?25l
+ 3 files changed, 90 insertions(+), 2 deletions(-)[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hi[0Kt[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git p[0K[?25hu[0Ks[0Kh[0K[66G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[73G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin p[0K[?25he[0Kr[0Kr[0K[57G[77G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin per[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin pe[0K[?25he[0Kr[0K[78G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer r[0K[?25he[0K[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer r[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer[0K[78G[?25h[57G[78G[77G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer-[0K[?25hr[0Ke[0Ki[0Kw[0K[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer-rei[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer-re[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git push origin peer-r[0K[?25he[0Kv[0Ki[0Ke[0K[0Kw[?25l
+[0K[?25h[?25l
+[0K[?25hEnumerating objects: 15, done.[0K[?25l
+Counting objects: 100% (15/15), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (7/7), done.[0K
+[0K[?25hWriting objects: 100% (8/8), 2.32 KiB | 297.00 KiB/s, done.[0K[?25l
+Total 8 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2)[0K[40G[?25lremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'peer-review' on GitHub by visiting:[0K
+remote:      https://github.com/JerryTucay/facebook/pull/new/peer-review[0K
+remote:[0K
+[0K[?25hTo https://github.com/JerryTucay/facebook[0K[?25l
+ * [new branch]      peer-review -> peer-review[0K
+[0K[?25hPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook>[0K[57G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> g[0K[?25hit[0K[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git p[0K[?25hus[0K[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git pu[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git p[0K[?25h[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git[0K[61G[?25h[60G[61G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git a[0K[?25hd[0Kd[0K[65G[?25lPS C:\Users\Mitchell Sanchez\Desktop\gitstuff\facebook> git add .[0K[?25h[?25l
 [0K[?25h
