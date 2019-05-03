@@ -1,0 +1,194 @@
+---
+title: "Analysis of Congressmen's Facebook Postings"
+author: "Jerry Tucay"
+date: "September 19, 2018"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(boot)
+library(ggplot2)
+library(gridExtra)
+library(relaimpo)
+
+facebook<- read.csv("C:/Users/tucay/Box Sync/School/math 385 data science/Congressional-Rhetoric-on-Facebook-2015-2017-Estimated-Support-Opposition-and-Local-Topics/facebook_poli.csv")
+
+```
+
+# Data 
+
+The data set comes from the Pew research center. It explores 1068 different members of congress from the 114th and 115th congress and their Facebook post trends.
+\\
+
+### Variables
+
+1.	$\textbf{Party}$: Used to differentiate between a Democrat or a Republican.
+2.	$\textbf{Oppose any}$: The proportion of posts in which each member opposed Barack Obama, Hillary Clinton, or Democrats and/or liberals (if the member is a Republican) or the proportion of posts in which each member opposed Donald Trump or Republicans and/or conservatives (if the member is a Democrat), in each congress.
+3.	$\textbf{Support any}$: The proportion of posts in which each member supported Barack Obama, Hillary Clinton, or Democrats and/or liberals (if the member is a Democrat) or the proportion of posts in which each member supported Donald Trump or Republicans and/or conservatives (if the member is a Republican), in each congress.
+4.	$\textbf{Local topic}$: The proportion of posts in which each member discussed mention a place, group, individual(s), or event in the politician's state or district, in each congress.
+
+#Univariate Graphs
+
+
+```{r, echo=FALSE, results='hide'}
+
+plot1<-ggplot(facebook, aes(local_topic))+ geom_histogram(bins=30)+ ggtitle("Local Topic")+ geom_vline(xintercept = mean(facebook$local_topic), color="red")+ geom_vline( xintercept=median(facebook$local_topic), color="green")
+
+plot2<-ggplot(facebook, aes(oppose_any))+ geom_histogram(bins=30)+ ggtitle("Opposing posts")+ geom_vline(xintercept = mean(facebook$oppose_any), color="red")+ geom_vline( xintercept=median(facebook$oppose_any), color="green")
+
+plot3<-ggplot(facebook, aes(party))+ geom_bar()+ ggtitle("Politcal Party")
+
+
+grid.arrange(plot1,plot2,plot3, ncol=2)
+
+summary(facebook$local_topic)
+```
+
+The local topics graph has a range of .06 to .85 and is fairly normally distributed with a good amount of variation. The mean ratio here is .45 seen in red. 
+
+The opposing posts graph has a much larger spread ranging from 0 to .74 with a longer right tail giving it that clear right skew. The median ratio is .09 seen in green.
+
+The political party graph shows the amount of people in either the democratic party or republican party. In this study there were 475 Democrats and 593 Republicans.
+
+# Bivariate
+
+```{r, echo=FALSE, results='hide'}
+ggplot(facebook, aes(oppose_any,local_topic))+geom_point()+ geom_smooth(method = "lm")+ggtitle("Linear Relationship")
+```
+
+The correlation between opposing posts and local posts has a moderate negative correlation of 0.62
+
+
+
+# Simple Linear Model
+
+\[
+  LocalTopic=\beta_o+ \beta_1OpposeAny 
+\]
+
+
+```{r, echo=FALSE}
+model<- lm(local_topic~oppose_any, data= facebook)
+
+thing2<- lm(local_topic~oppose_any, data= facebook)$coefficients
+
+
+pander::pander(summary(model))
+#confint(model)
+
+```
+
+For every one unit increase of the proportion of posts that oppose rival political parties/beliefs, the proportion of posts that are about their state or district decrease by .7(95% CI: .76, .65, p<.0001).
+In other words the more someone posts with opposition the less likely they are posting about their district or state.
+
+\pagebreak
+
+## Assumptions
+
+```{r,echo=FALSE, results='hide'}
+par(mfrow=c(2,2))
+plot(model)
+```
+
+The normal Q-Q show that the residuals are normally distributed. The residuals vs. fitted plot shows the residuals are centered around zero with some slight. But the Residuals v Fitted are seen to have hetroskedastity meaning the residuals are unequal.
+
+# Bootstrap confidence interval (Mean)
+```{r, echo=FALSE, results='hide'}
+oppose_mean<- with(facebook, mean(oppose_any))
+
+oppose_mean
+
+x<-1000
+y<-nrow(facebook)
+boot_samp<- matrix(sample(facebook$oppose_any, size = x*y, replace = TRUE),x,y)
+
+boot_stat<- apply(boot_samp, 1, mean)
+se<-sd(boot_stat)
+summary(boot_stat)
+
+oppose_mean + c(-1,1)*se*1.96
+
+```
+We are 95% confident that the true average of congress's posts are opposing statements within the interval 12.5% and 14.1% of the time.
+
+# Boostrap confidence interval (variance)
+
+```{r, echo=FALSE, results='hide'}
+oppose_var<- with(facebook, var(oppose_any))
+
+oppose_var
+
+x<-1000
+y<-nrow(facebook)
+boot_samp2<- matrix(sample(facebook$oppose_any, size = x*y, replace = TRUE),x,y)
+
+boot_stat2<- apply(boot_samp2, 1, var)
+
+se1<- sd(boot_stat2)
+
+oppose_var+ c(-1,1)*se1*1.96
+rm(boot_samp,boot_samp2)
+```
+
+We are 95% confident that opposing posts have a variance between the interval 1.4% and 1.8%
+
+\pagebreak
+
+# Bootstrap for linear regression
+
+
+```{r}
+N<-nrow(facebook)
+intercept_stuff<-rep(NA,N)
+opp_stuff<-rep(NA,N)
+for(t in 1:N){
+  idx <- sample(1:N, size =N, replace=TRUE)
+    intercept_stuff[t]<- lm(local_topic~oppose_any ,data = facebook[idx, ])$coefficient[1] 
+
+  opp_stuff[t]<- lm(local_topic~oppose_any ,data = facebook[idx, ])$coefficient[2] 
+}
+
+slope_int_df<-as.data.frame(cbind(intercept_stuff,opp_stuff))
+
+```
+
+
+```{r}
+library(ggplot2)
+ggplot(color=facebook$party) + geom_point(data = facebook, aes(oppose_any, local_topic, colour=facebook$party) ) +
+  geom_abline(data = slope_int_df, slope=opp_stuff, intercept = intercept_stuff, color="green3", alpha=.019) +
+  geom_smooth(data = facebook, aes(oppose_any, local_topic),method = "lm")+ xlim(0,.8)+ ylim(0,.9) +
+  ggtitle("Linear Relationship with Bootstraped lm") + labs(colour='Politcal Party', x= 'Ratio of opposing posts', y='Ratio of local topics' )
+```
+The graph shows the correlation between a Congressman's ratio of local posts and ratio of opposing posts. There's is a clear negative correlation between the two variables of .62. The green line represents the 1068 bootstrapped linear models. As you can see it covers about the same area as the gray part that comes from the geom_smooth which represents the confidence interval of my model. 
+
+k-fold cross-validation
+```{r}
+set.seed(74747)
+glm_fit <- glm(local_topic~oppose_any, data= facebook)
+cv.error <- cv.glm(facebook, glm_fit, K= 6 )$delta[1]
+cv.error
+```
+
+trees
+```{r}
+names(facebook)
+facebook_take2 <- facebook[,-c(3,4)]
+tree.bebe <- tree(local_topic ~ ., facebook_take2)
+tree.bebe2 <- tree(total_posts ~ ., facebook_take2)
+summary(tree.bebe)
+summary(tree.bebe2)
+```
+
+
+```{r}
+plot(tree.bebe)
+text(tree.bebe, pretty = 0)
+tree.bebe
+plot(tree.bebe2)
+text(tree.bebe2, pretty = 0)
+```

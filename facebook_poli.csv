@@ -1,0 +1,1069 @@
+session,party,name,bioguide_id,oppose_any,support_any,local_topic,total_posts
+115,Democratic Party,Sherrod Brown,B000944,0.22,0.04,0.31,675
+115,Democratic Party,Maria Cantwell,C000127,0.43,0.07,0.28,274
+115,Democratic Party,Benjamin L. 'Ben' Cardin,C000141,0.49,0.17,0.27,94
+115,Democratic Party,Thomas Richard 'Tom' Carper,C000174,0.26,0.07,0.61,291
+115,Democratic Party,Robert Patrick 'Bob' Casey Jr.,C001070,0.44,0.09,0.26,363
+115,Republican Party,Bob Corker,C001071,0.03,0.21,0.52,432
+115,Democratic Party,Dianne Feinstein,F000062,0.43,0.10,0.14,182
+115,Republican Party,Orrin G. Hatch,H000338,0.08,0.16,0.42,243
+115,Democratic Party,Amy Jean Klobuchar,K000367,0.15,0.03,0.44,384
+115,Democratic Party,Claire McCaskill,M001170,0.18,0.11,0.45,240
+115,Democratic Party,Robert 'Bob' Menendez,M000639,0.40,0.06,0.25,540
+115,Democratic Party,Bill Nelson,N000032,0.24,0.04,0.32,226
+115,Democratic Party,Bernard 'Bernie' Sanders,S000033,0.58,0.08,0.10,2618
+115,Democratic Party,Debbie Ann Stabenow,S000770,0.28,0.05,0.56,591
+115,Democratic Party,Jon Tester,T000464,0.12,0.02,0.48,859
+115,Democratic Party,Sheldon Whitehouse,W000802,0.34,0.10,0.34,437
+115,Republican Party,John A. Barrasso,B001261,0.17,0.22,0.47,203
+115,Republican Party,Roger F. Wicker,W000437,0.12,0.32,0.19,576
+115,Republican Party,Lamar Alexander,A000360,0.15,0.12,0.54,169
+115,Republican Party,Susan M. Collins,C001035,0.00,0.03,0.65,370
+115,Republican Party,John Cornyn,C001056,0.12,0.15,0.43,304
+115,Democratic Party,Richard J. 'Dick' Durbin,D000563,0.55,0.12,0.17,711
+115,Republican Party,Michael Bradley 'Mike' Enzi,E000285,0.10,0.14,0.41,247
+115,Republican Party,Lindsey Olin Graham,G000359,0.14,0.34,0.36,314
+115,Republican Party,James M. 'Jim' Inhofe,I000024,0.13,0.34,0.40,222
+115,Republican Party,Mitch McConnell,M000355,0.19,0.20,0.28,763
+115,Democratic Party,Jeff Merkley,M001176,0.52,0.09,0.19,932
+115,Democratic Party,John Francis 'Jack' Reed,R000122,0.36,0.04,0.29,248
+115,Republican Party,Patrick 'Pat' Roberts,R000307,0.04,0.08,0.62,381
+115,Democratic Party,Jeanne Shaheen,S001181,0.40,0.08,0.36,492
+115,Democratic Party,Tom S. Udall,U000039,0.51,0.11,0.38,397
+115,Democratic Party,Mark Warner,W000805,0.28,0.08,0.23,120
+115,Democratic Party,Kirsten E. Gillibrand,G000555,0.28,0.09,0.23,320
+115,Democratic Party,Alan Stuart 'Al' Franken,F000457,0.52,0.13,0.28,371
+115,Democratic Party,Christopher Andrew 'Chris' Coons,C001088,0.27,0.07,0.40,522
+115,Democratic Party,Joe Manchin III,M001183,0.07,0.03,0.66,485
+115,Republican Party,Robert B. Aderholt,A000055,0.02,0.12,0.54,91
+115,Republican Party,Justin Amash,A000367,0.14,0.25,0.31,128
+115,Democratic Party,Tammy Baldwin,B001230,0.34,0.05,0.32,711
+115,Republican Party,Louis J. 'Lou' Barletta,B001269,0.09,0.25,0.41,558
+115,Republican Party,Joe Linus Barton,B000213,0.12,0.22,0.43,283
+115,Democratic Party,Karen Bass,B001270,0.43,0.08,0.15,493
+115,Democratic Party,Michael F. Bennet,B001267,0.27,0.04,0.32,721
+115,Republican Party,Gus M. Bilirakis,B001257,0.02,0.06,0.51,653
+115,Republican Party,Rob Bishop,B001250,0.05,0.10,0.49,39
+115,Democratic Party,Sanford D. Bishop Jr.,B000490,0.01,0.00,0.66,120
+115,Republican Party,Diane Black,B001273,0.16,0.36,0.28,463
+115,Republican Party,Marsha Wedgeworth Blackburn,B001243,0.07,0.24,0.27,783
+115,Democratic Party,Earl Blumenauer,B000574,0.41,0.05,0.26,293
+115,Democratic Party,Richard Blumenthal,B001277,0.31,0.06,0.24,478
+115,Republican Party,Roy Blunt,B000575,0.14,0.19,0.37,265
+115,Republican Party,John Nichols Boozman,B001236,0.07,0.11,0.63,396
+115,Republican Party,Kevin P. Brady,B000755,0.11,0.26,0.42,1020
+115,Democratic Party,Robert Alan 'Bob' Brady,B001227,0.40,0.10,0.25,20
+115,Republican Party,Morris Jackson 'Mo' Brooks Jr.,B001274,0.10,0.31,0.56,466
+115,Republican Party,Vern Buchanan,B001260,0.02,0.05,0.39,240
+115,Republican Party,Larry Bucshon,B001275,0.16,0.22,0.47,443
+115,Republican Party,Michael C. Burgess,B001248,0.06,0.11,0.44,191
+115,Republican Party,Richard M. Burr,B001135,0.08,0.07,0.43,219
+115,Democratic Party,George Kenneth 'G.K.' Butterfield Jr.,B001251,0.29,0.05,0.49,480
+115,Republican Party,Ken S. Calvert,C000059,0.31,0.35,0.50,26
+115,Republican Party,Shelley Moore Capito,C001047,0.03,0.09,0.53,572
+115,Democratic Party,Michael E. Capuano,C001037,0.32,0.04,0.43,193
+115,Democratic Party,Andre Carson,C001072,0.15,0.05,0.34,244
+115,Republican Party,John R. Carter,C001051,0.03,0.13,0.66,1112
+115,Republican Party,Bill Cassidy,C001075,0.13,0.14,0.54,506
+115,Democratic Party,Kathy Castor,C001066,0.56,0.12,0.32,442
+115,Republican Party,Steve J. Chabot,C000266,0.02,0.06,0.61,243
+115,Republican Party,Jason Chaffetz,C001076,0.12,0.12,0.23,317
+115,Democratic Party,Judy M. Chu,C001080,0.49,0.07,0.25,411
+115,Democratic Party,David N. Cicilline,C001084,0.51,0.12,0.15,674
+115,Democratic Party,Yvette D. Clarke,C001067,0.36,0.09,0.17,614
+115,Democratic Party,William Lacy 'Lacy' Clay Jr.,C001049,0.44,0.04,0.20,181
+115,Democratic Party,Emanuel Cleaver II,C001061,0.28,0.06,0.31,392
+115,Democratic Party,James E. 'Jim' Clyburn,C000537,0.06,0.09,0.50,101
+115,Republican Party,Mike Coffman,C001077,0.01,0.03,0.31,370
+115,Democratic Party,Steve 'Steve' Cohen,C001068,0.47,0.15,0.25,441
+115,Republican Party,Thomas Jeffery 'Tom' Cole,C001053,0.05,0.16,0.54,114
+115,Republican Party,Kenneth Michael 'Mike' Conaway,C001062,0.03,0.08,0.63,227
+115,Democratic Party,Gerald Edward 'Gerry' Connolly,C001078,0.38,0.08,0.23,297
+115,Democratic Party,John James Conyers Jr.,C000714,0.37,0.14,0.15,337
+115,Democratic Party,James Hayes Shofner 'Jim' Cooper,C000754,0.37,0.09,0.29,214
+115,Democratic Party,Jim Costa,C001059,0.09,0.03,0.59,328
+115,Democratic Party,Joe Courtney,C001069,0.29,0.08,0.58,298
+115,Republican Party,Michael Dean 'Mike' Crapo,C000880,0.00,0.05,0.51,214
+115,Republican Party,Eric A. 'Rick' Crawford,C001087,0.06,0.14,0.54,265
+115,Democratic Party,Joseph 'Joe' Crowley,C001038,0.42,0.17,0.25,838
+115,Democratic Party,Henry Cuellar,C001063,0.06,0.01,0.61,398
+115,Republican Party,John Abney Culberson,C001048,0.02,0.07,0.58,289
+115,Democratic Party,Elijah Eugene Cummings,C000984,0.42,0.10,0.21,434
+115,Democratic Party,Susan A. Davis,D000598,0.34,0.07,0.27,388
+115,Democratic Party,Peter Anthony DeFazio,D000191,0.47,0.09,0.29,154
+115,Democratic Party,Diana Louise DeGette,D000197,0.42,0.12,0.30,382
+115,Democratic Party,Rosa Luisa DeLauro,D000216,0.40,0.07,0.36,297
+115,Republican Party,Jeff Denham,D000612,0.03,0.04,0.55,333
+115,Republican Party,Charles W. 'Charlie' Dent,D000604,0.01,0.11,0.53,203
+115,Republican Party,Scott DesJarlais,D000616,0.34,0.30,0.27,353
+115,Democratic Party,Theodore E. 'Ted' Deutch,D000610,0.33,0.07,0.36,332
+115,Republican Party,Mario Diaz-Balart,D000600,0.02,0.10,0.63,568
+115,Democratic Party,Lloyd A. Doggett,D000399,0.54,0.07,0.38,1125
+115,Democratic Party,Joe Donnelly,D000607,0.07,0.01,0.57,967
+115,Democratic Party,Michael F. 'Mike' Doyle,D000482,0.50,0.07,0.18,103
+115,Republican Party,Sean P. Duffy,D000614,0.09,0.14,0.46,589
+115,Republican Party,Jeff Duncan,D000615,0.26,0.33,0.37,473
+115,Republican Party,John James 'Jimmy' Duncan Jr.,D000533,0.03,0.03,0.69,39
+115,Democratic Party,Keith Maurice Ellison,E000288,0.30,0.24,0.31,596
+115,Democratic Party,Eliot L. Engel,E000179,0.55,0.13,0.09,179
+115,Democratic Party,Anna Georges Eshoo,E000215,0.30,0.07,0.24,162
+115,Republican Party,Blake Farenthold,F000460,0.03,0.10,0.57,801
+115,Republican Party,Jeff Flake,F000444,0.04,0.08,0.33,271
+115,Republican Party,Charles J. 'Chuck' Fleischmann,F000459,0.02,0.08,0.67,199
+115,Republican Party,William H. 'Bill' Flores,F000461,0.09,0.15,0.47,1078
+115,Republican Party,Jeff Lane Fortenberry,F000449,0.00,0.02,0.43,691
+115,Republican Party,Virginia Ann Foxx,F000450,0.22,0.30,0.31,54
+115,Republican Party,Trent Franks,F000448,0.11,0.15,0.29,133
+115,Republican Party,Rodney P. Frelinghuysen,F000372,0.05,0.03,0.63,94
+115,Democratic Party,Marcia L. Fudge,F000455,0.25,0.07,0.34,281
+115,Democratic Party,John Raymond Garamendi,G000559,0.23,0.04,0.45,804
+115,Republican Party,Cory Gardner,G000562,0.03,0.10,0.50,281
+115,Republican Party,Bob Gibbs,G000563,0.07,0.12,0.62,301
+115,Republican Party,Louie B. Gohmert Jr.,G000552,0.12,0.22,0.23,659
+115,Republican Party,Robert William 'Bob' Goodlatte,G000289,0.06,0.11,0.56,358
+115,Republican Party,Paul Anthony Gosar,G000565,0.14,0.19,0.35,807
+115,Republican Party,Harold Watson 'Trey' Gowdy III,G000566,0.02,0.04,0.16,45
+115,Republican Party,Kay Granger,G000377,0.03,0.03,0.47,150
+115,Republican Party,Charles Ernest 'Chuck' Grassley,G000386,0.11,0.16,0.24,416
+115,Republican Party,Sam B. Graves,G000546,0.09,0.22,0.52,126
+115,Republican Party,Tom Graves,G000560,0.11,0.24,0.43,359
+115,Democratic Party,Al Green,G000553,0.12,0.03,0.12,34
+115,Democratic Party,Gene Eugene Green,G000410,0.33,0.05,0.40,295
+115,Republican Party,Howard Morgan 'Morgan' Griffith,G000568,0.07,0.09,0.48,376
+115,Democratic Party,Raul M. Grijalva,G000551,0.50,0.08,0.20,1036
+115,Republican Party,Brett Guthrie,G000558,0.07,0.09,0.64,484
+115,Democratic Party,Luis V. Gutierrez,G000535,0.28,0.13,0.29,555
+115,Republican Party,Gregg Harper,H001045,0.01,0.08,0.65,79
+115,Republican Party,Andy Harris,H001052,0.04,0.07,0.69,247
+115,Republican Party,Vicky Hartzler,H001053,0.09,0.14,0.42,243
+115,Democratic Party,Alcee L. Hastings,H000324,0.35,0.08,0.29,260
+115,Democratic Party,Martin Heinrich,H001046,0.32,0.04,0.47,1026
+115,Republican Party,Thomas 'Jeb' Hensarling,H001036,0.17,0.35,0.24,168
+115,Republican Party,Jaime Lynn Herrera Beutler,H001056,0.03,0.05,0.60,355
+115,Democratic Party,Brian Higgins,H001038,0.16,0.09,0.63,104
+115,Democratic Party,James Andrew 'Jim' Himes,H001047,0.23,0.12,0.31,489
+115,Democratic Party,Mazie K. Hirono,H001042,0.34,0.09,0.25,308
+115,Republican Party,John Henry Hoeven III,H001061,0.01,0.00,0.77,387
+115,Democratic Party,Steny H. Hoyer,H000874,0.51,0.21,0.16,1123
+115,Republican Party,Bill Huizenga,H001058,0.09,0.27,0.55,512
+115,Republican Party,Randy Hultgren,H001059,0.01,0.06,0.54,226
+115,Republican Party,Duncan D. Hunter,H001048,0.03,0.12,0.45,160
+115,Republican Party,Darrell E. Issa,I000056,0.15,0.11,0.45,522
+115,Democratic Party,Sheila Jackson Lee,J000032,0.18,0.04,0.39,522
+115,Republican Party,Lynn Jenkins,J000290,0.08,0.14,0.45,174
+115,Republican Party,William Leslie 'Bill' Johnson,J000292,0.09,0.25,0.55,419
+115,Democratic Party,Eddie Bernice Johnson,J000126,0.13,0.08,0.45,301
+115,Democratic Party,Henry C. 'Hank' Johnson Jr.,J000288,0.18,0.06,0.38,691
+115,Republican Party,Ron Johnson,J000293,0.10,0.10,0.53,221
+115,Republican Party,Sam Robert Johnson,J000174,0.12,0.08,0.45,155
+115,Republican Party,Walter B. Jones Jr.,J000255,0.04,0.12,0.49,277
+115,Republican Party,James Daniel 'Jim' Jordan,J000289,0.31,0.36,0.17,114
+115,Democratic Party,Marcy Kaptur,K000009,0.35,0.07,0.39,388
+115,Democratic Party,William Richard 'Bill' Keating,K000375,0.24,0.02,0.39,202
+115,Republican Party,Mike Kelly,K000376,0.14,0.27,0.36,227
+115,Democratic Party,Ron James Kind,K000188,0.15,0.04,0.61,396
+115,Republican Party,Peter T. 'Pete' King,K000210,0.13,0.23,0.68,319
+115,Republican Party,Steve A. King,K000362,0.11,0.08,0.14,910
+115,Republican Party,Adam Kinzinger,K000378,0.06,0.09,0.43,447
+115,Republican Party,Raul R. Labrador,L000573,0.05,0.16,0.55,450
+115,Republican Party,Doug Lamborn,L000564,0.09,0.18,0.43,639
+115,Republican Party,Leonard J. Lance,L000567,0.03,0.14,0.49,270
+115,Democratic Party,James R. 'Jim' Langevin,L000559,0.16,0.05,0.44,443
+115,Republican Party,James Lankford,L000575,0.10,0.08,0.34,384
+115,Democratic Party,Rick Larsen,L000560,0.33,0.08,0.43,433
+115,Democratic Party,John Barry Larson,L000557,0.31,0.02,0.42,535
+115,Republican Party,Robert E. 'Bob' Latta,L000566,0.05,0.09,0.54,481
+115,Democratic Party,Patrick Joseph Leahy,L000174,0.52,0.10,0.14,106
+115,Democratic Party,Barbara Lee,L000551,0.49,0.10,0.17,748
+115,Republican Party,Mike Lee,L000577,0.18,0.23,0.23,274
+115,Democratic Party,Sander Martin 'Sandy' Levin,L000263,0.30,0.11,0.46,277
+115,Democratic Party,John R. Lewis,L000287,0.22,0.02,0.27,45
+115,Democratic Party,Daniel William 'Dan' Lipinski,L000563,0.20,0.02,0.50,251
+115,Republican Party,Frank Alo LoBiondo,L000554,0.00,0.29,0.67,21
+115,Democratic Party,David 'Dave' Loebsack,L000565,0.11,0.08,0.72,236
+115,Democratic Party,Zoe Lofgren,L000397,0.59,0.17,0.19,140
+115,Republican Party,Billy Long,L000576,0.09,0.31,0.31,35
+115,Democratic Party,Nita M. Lowey,L000480,0.45,0.10,0.29,440
+115,Republican Party,Frank Dean Lucas,L000491,0.10,0.19,0.59,79
+115,Republican Party,Blaine Luetkemeyer,L000569,0.12,0.23,0.39,390
+115,Democratic Party,Ben Ray Lujan,L000570,0.29,0.08,0.45,328
+115,Democratic Party,Stephen F. Lynch,L000562,0.25,0.03,0.66,177
+115,Democratic Party,Carolyn Bosher Maloney,M000087,0.25,0.10,0.32,333
+115,Republican Party,Kenny Ewell Marchant,M001158,0.07,0.20,0.40,146
+115,Republican Party,Tom Marino,M001179,0.12,0.28,0.34,98
+115,Democratic Party,Edward John 'Ed' Markey,M000133,0.55,0.09,0.18,1337
+115,Democratic Party,Doris O. Matsui,M001163,0.38,0.13,0.23,348
+115,Republican Party,John S. McCain,M000303,0.06,0.11,0.27,431
+115,Republican Party,Kevin McCarthy,M001165,0.15,0.22,0.33,354
+115,Republican Party,Michael Thomas McCaul Sr.,M001157,0.07,0.19,0.31,688
+115,Republican Party,Tom McClintock,M001177,0.20,0.13,0.67,30
+115,Democratic Party,Betty Louise McCollum,M001143,0.62,0.15,0.31,1301
+115,Democratic Party,James P. 'Jim' McGovern,M000312,0.29,0.11,0.52,570
+115,Republican Party,Patrick T. McHenry,M001156,0.09,0.20,0.61,380
+115,Republican Party,David B. McKinley,M001180,0.06,0.14,0.52,409
+115,Republican Party,Cathy McMorris Rodgers,M001159,0.06,0.12,0.53,956
+115,Democratic Party,Jerry McNerney,M001166,0.14,0.04,0.51,249
+115,Republican Party,Patrick 'Pat' Meehan,M001181,0.03,0.04,0.53,270
+115,Democratic Party,Gregory Weldon Meeks,M001137,0.35,0.07,0.22,515
+115,Democratic Party,Gwen Moore,M001160,0.51,0.12,0.18,390
+115,Republican Party,Jerry Moran,M000934,0.02,0.06,0.68,571
+115,Republican Party,Lisa Ann Murkowski,M001153,0.01,0.04,0.68,646
+115,Democratic Party,Christopher Scott 'Chris' Murphy,M001169,0.38,0.08,0.28,732
+115,Republican Party,Timothy Francis 'Tim' Murphy,M001151,0.03,0.07,0.52,193
+115,Democratic Party,Patty Murray,M001111,0.74,0.22,0.13,459
+115,Democratic Party,Jerrold L. Nadler,N000002,0.54,0.04,0.08,1744
+115,Democratic Party,Grace F. Napolitano,N000179,0.34,0.16,0.46,146
+115,Democratic Party,Richard E. Neal,N000015,0.33,0.23,0.39,255
+115,Republican Party,Kristi L. Noem,N000184,0.07,0.16,0.56,370
+115,Republican Party,Devin G. Nunes,N000181,0.07,0.07,0.46,82
+115,Republican Party,Pete Olson,O000168,0.11,0.19,0.45,318
+115,Republican Party,Steven McCarty Palazzo,P000601,0.15,0.25,0.42,343
+115,Democratic Party,Frank J. Pallone Jr.,P000034,0.33,0.16,0.36,762
+115,Democratic Party,Bill J. Pascrell Jr.,P000096,0.46,0.10,0.24,554
+115,Republican Party,Rand Paul,P000603,0.16,0.24,0.06,2421
+115,Republican Party,Erik Paulsen,P000594,0.02,0.04,0.52,323
+115,Republican Party,Stevan E. 'Steve' Pearce,P000588,0.03,0.08,0.62,829
+115,Democratic Party,Nancy Pelosi,P000197,0.55,0.25,0.06,1155
+115,Democratic Party,Ed Perlmutter,P000593,0.38,0.09,0.36,455
+115,Democratic Party,Gary C. Peters,P000595,0.26,0.04,0.51,771
+115,Democratic Party,Chellie Pingree,P000597,0.49,0.07,0.38,489
+115,Republican Party,Ted Poe,P000592,0.03,0.04,0.57,380
+115,Democratic Party,Jared Polis,P000598,0.23,0.06,0.47,790
+115,Republican Party,Robert J. 'Rob' Portman,P000449,0.06,0.07,0.50,555
+115,Republican Party,Bill Posey,P000599,0.03,0.00,0.29,31
+115,Democratic Party,David Eugene Price,P000523,0.38,0.08,0.42,224
+115,Democratic Party,Mike Quigley,Q000023,0.49,0.11,0.24,385
+115,Republican Party,Tom W. Reed II,R000585,0.04,0.08,0.51,592
+115,Republican Party,David G. 'Dave' Reichert,R000578,0.01,0.05,0.59,329
+115,Republican Party,James B. 'Jim' Renacci,R000586,0.03,0.11,0.52,1137
+115,Democratic Party,Cedric L. Richmond,R000588,0.19,0.01,0.32,104
+115,Republican Party,Martha Roby,R000591,0.07,0.18,0.54,517
+115,Republican Party,David P. 'Phil' Roe,R000582,0.13,0.27,0.37,328
+115,Republican Party,Harold 'Hal' Rogers,R000395,0.02,0.04,0.62,330
+115,Republican Party,Michael Dennis 'Mike' Rogers,R000575,0.10,0.58,0.23,40
+115,Republican Party,Dana Tyrone Rohrabacher,R000409,0.01,0.01,0.80,302
+115,Republican Party,Todd Rokita,R000592,0.15,0.38,0.57,690
+115,Republican Party,Thomas J. 'Tom' Rooney,R000583,0.04,0.07,0.55,229
+115,Republican Party,Ileana Ros-Lehtinen,R000435,0.01,0.02,0.30,3161
+115,Republican Party,Peter J. Roskam,R000580,0.02,0.04,0.64,171
+115,Republican Party,Dennis A. Ross,R000593,0.04,0.10,0.49,166
+115,Democratic Party,Lucille Roybal-Allard,R000486,0.19,0.09,0.33,821
+115,Republican Party,Edward R. 'Ed' Royce,R000487,0.01,0.06,0.47,424
+115,Republican Party,Marco Antonio Rubio,R000595,0.03,0.10,0.26,490
+115,Democratic Party,C. A. Dutch Ruppersberger,R000576,0.13,0.03,0.51,525
+115,Democratic Party,Bobby L. Rush,R000515,0.19,0.09,0.24,161
+115,Republican Party,Paul D. Ryan,R000570,0.14,0.18,0.17,908
+115,Democratic Party,Tim J. Ryan,R000577,0.43,0.14,0.30,566
+115,Democratic Party,John P. Sarbanes,S001168,0.28,0.08,0.43,465
+115,Republican Party,Stephen Joseph 'Steve' Scalise,S001176,0.19,0.19,0.29,344
+115,Democratic Party,Janice D. 'Jan' Schakowsky,S001145,0.42,0.13,0.26,706
+115,Democratic Party,Adam B. Schiff,S001150,0.43,0.10,0.15,560
+115,Democratic Party,Kurt Schrader,S001180,0.09,0.06,0.72,195
+115,Democratic Party,Charles E. 'Chuck' Schumer,S000148,0.45,0.16,0.20,740
+115,Republican Party,David Schweikert,S001183,0.03,0.03,0.20,1450
+115,Republican Party,James 'Austin' Scott,S001189,0.04,0.12,0.63,186
+115,Democratic Party,David Albert Scott,S001157,0.08,0.05,0.51,143
+115,Democratic Party,Robert C. 'Bobby' Scott,S000185,0.24,0.17,0.43,185
+115,Republican Party,Tim Scott,S001184,0.06,0.06,0.41,399
+115,Republican Party,Frank James 'Jim' Sensenbrenner Jr.,S000244,0.03,0.05,0.50,40
+115,Democratic Party,Jose E. Serrano,S000248,0.14,0.07,0.40,243
+115,Republican Party,Peter Anderson 'Pete' Sessions,S000250,0.15,0.23,0.38,445
+115,Democratic Party,Terrycina Andrea 'Terri' Sewell,S001185,0.21,0.05,0.35,657
+115,Republican Party,Richard Craig Shelby,S000320,0.08,0.22,0.61,132
+115,Democratic Party,Bradley James 'Brad' Sherman,S000344,0.38,0.10,0.38,88
+115,Republican Party,John M. Shimkus,S000364,0.12,0.20,0.38,328
+115,Republican Party,William Franklin 'Bill' Shuster,S001154,0.08,0.27,0.30,201
+115,Republican Party,Michael K. 'Mike' Simpson,S001148,0.02,0.05,0.70,57
+115,Democratic Party,Albio Sires,S001165,0.19,0.01,0.30,445
+115,Democratic Party,Louise McIntosh Slaughter,S000480,0.45,0.05,0.36,806
+115,Democratic Party,Adam Smith,S000510,0.24,0.06,0.46,588
+115,Republican Party,Adrian Michael Smith,S001172,0.05,0.12,0.12,58
+115,Republican Party,Christopher H. 'Chris' Smith,S000522,0.02,0.02,0.47,129
+115,Republican Party,Lamar S. Smith,S000583,0.06,0.12,0.50,178
+115,Democratic Party,Jackie Speier,S001175,0.34,0.09,0.28,376
+115,Republican Party,Steven Ernst 'Steve' Stivers,S001187,0.02,0.03,0.68,324
+115,Democratic Party,Linda T. Sanchez,S001156,0.38,0.15,0.25,439
+115,Democratic Party,Bennie G. Thompson,T000193,0.07,0.02,0.48,95
+115,Democratic Party,Mike Michael Thompson,T000460,0.17,0.05,0.61,1246
+115,Republican Party,Glenn Thompson,T000467,0.04,0.21,0.71,288
+115,Republican Party,Mac M. Thornberry,T000238,0.09,0.12,0.31,299
+115,Republican Party,John Thune,T000250,0.00,0.09,0.58,57
+115,Republican Party,Patrick Joseph 'Pat' Tiberi,T000462,0.14,0.15,0.35,220
+115,Republican Party,Scott R. Tipton,T000470,0.06,0.03,0.59,358
+115,Democratic Party,Paul Tonko,T000469,0.46,0.08,0.29,949
+115,Republican Party,Patrick J. 'Pat' Toomey,T000461,0.04,0.11,0.28,387
+115,Democratic Party,Niki S. Tsongas,T000465,0.21,0.05,0.47,564
+115,Republican Party,Michael R. 'Mike' Turner,T000463,0.01,0.07,0.41,261
+115,Republican Party,Fred Stephen Upton,U000031,0.01,0.05,0.62,285
+115,Democratic Party,Chris Van Hollen Jr.,V000128,0.67,0.17,0.19,559
+115,Democratic Party,Nydia Margarita Velazquez,V000081,0.33,0.07,0.27,435
+115,Democratic Party,Peter John 'Pete' Visclosky,V000108,0.09,0.05,0.69,501
+115,Republican Party,Tim Walberg,W000798,0.02,0.05,0.62,312
+115,Republican Party,Greg P. Walden,W000791,0.02,0.06,0.70,331
+115,Democratic Party,Timothy James 'Tim' Walz,W000799,0.20,0.10,0.60,10
+115,Democratic Party,Debbie Wasserman Schultz,W000797,0.52,0.10,0.30,1064
+115,Democratic Party,Maxine Waters,W000187,0.58,0.14,0.07,59
+115,Republican Party,Daniel Webster,W000806,0.06,0.09,0.56,227
+115,Democratic Party,Peter Francis 'Pete' Welch,W000800,0.33,0.05,0.46,189
+115,Republican Party,Joe G. Wilson,W000795,0.02,0.14,0.43,210
+115,Democratic Party,Frederica Smith Wilson,W000808,0.16,0.10,0.52,234
+115,Republican Party,Robert Joseph 'Rob' Wittman,W000804,0.01,0.05,0.49,402
+115,Republican Party,Steve Womack,W000809,0.05,0.16,0.48,148
+115,Republican Party,Rob Woodall,W000810,0.09,0.20,0.47,198
+115,Democratic Party,Ron Wyden,W000779,0.67,0.11,0.14,221
+115,Democratic Party,John A. Yarmuth,Y000062,0.37,0.18,0.30,250
+115,Republican Party,Kevin Wayne Yoder,Y000063,0.06,0.13,0.55,412
+115,Republican Party,Don E. Young,Y000033,0.08,0.08,0.48,230
+115,Republican Party,Todd C. Young,Y000064,0.04,0.10,0.58,332
+115,Republican Party,Dean Arthur Heller,H001041,0.08,0.11,0.35,545
+115,Republican Party,Mark E. Amodei,A000369,0.07,0.07,0.59,61
+115,Democratic Party,Suzanne Bonamici,B001278,0.27,0.07,0.46,540
+115,Democratic Party,Suzan K. DelBene,D000617,0.22,0.06,0.35,766
+115,Republican Party,Thomas Harold Massie,M001184,0.17,0.20,0.26,420
+115,Democratic Party,Donald Milford Payne Jr.,P000604,0.36,0.06,0.36,611
+115,Democratic Party,Brian Emanuel Schatz,S001194,0.31,0.12,0.11,216
+115,Democratic Party,Bill Foster,F000454,0.28,0.05,0.44,290
+115,Democratic Party,Dina Titus,T000468,0.25,0.06,0.25,345
+115,Republican Party,Tom Cotton,C001095,0.09,0.10,0.28,503
+115,Democratic Party,Kyrsten Sinema,S001191,0.01,0.00,0.47,842
+115,Republican Party,Douglas L. 'Doug' LaMalfa,L000578,0.10,0.15,0.49,294
+115,Democratic Party,Jared William Huffman,H001068,0.49,0.11,0.41,940
+115,Democratic Party,Ami Bera,B001287,0.10,0.02,0.41,572
+115,Republican Party,Paul Cook,C001094,0.00,0.05,0.55,20
+115,Democratic Party,Eric Swalwell,S001193,0.31,0.09,0.35,750
+115,Republican Party,David G. Valadao,V000129,0.03,0.03,0.53,120
+115,Democratic Party,Julia Brownley,B001285,0.12,0.04,0.68,852
+115,Democratic Party,Antonio 'Tony' Cardenas,C001097,0.32,0.08,0.31,336
+115,Democratic Party,Raul Ruiz,R000599,0.15,0.06,0.58,522
+115,Democratic Party,Mark Takano,T000472,0.39,0.09,0.31,299
+115,Democratic Party,Alan S. Lowenthal,L000579,0.46,0.11,0.22,336
+115,Democratic Party,Juan Vargas,V000130,0.18,0.03,0.55,261
+115,Democratic Party,Scott H. Peters,P000608,0.23,0.08,0.50,356
+115,Democratic Party,Elizabeth H. Esty,E000293,0.22,0.06,0.38,509
+115,Republican Party,Ted S. Yoho,Y000065,0.03,0.06,0.58,429
+115,Republican Party,Ron DeSantis,D000621,0.12,0.17,0.38,328
+115,Democratic Party,Lois Jane Frankel,F000462,0.32,0.17,0.24,467
+115,Republican Party,Douglas Allen 'Doug' Collins,C001093,0.14,0.24,0.32,890
+115,Democratic Party,Tulsi Gabbard,G000571,0.10,0.02,0.43,662
+115,Democratic Party,Tammy Tammy Duckworth,D000622,0.30,0.06,0.41,774
+115,Republican Party,Rodney Davis,D000619,0.06,0.10,0.62,543
+115,Democratic Party,Cheri Bustos,B001286,0.29,0.14,0.55,673
+115,Republican Party,Jackie Walorski,W000813,0.12,0.23,0.40,532
+115,Republican Party,Susan W. Brooks,B001284,0.05,0.08,0.60,421
+115,Republican Party,Luke Messer,M001189,0.11,0.29,0.53,617
+115,Republican Party,Garland 'Andy' Barr,B001282,0.09,0.18,0.41,523
+115,Democratic Party,Elizabeth Ann Warren,W000817,0.55,0.12,0.20,730
+115,Democratic Party,Joseph P. 'Joe' Kennedy III,K000379,0.37,0.06,0.23,394
+115,Democratic Party,John K. Delaney,D000620,0.26,0.08,0.28,1479
+115,Democratic Party,Angus King,K000383,0.08,0.01,0.61,426
+115,Democratic Party,Daniel T. 'Dan' Kildee,K000380,0.40,0.10,0.44,388
+115,Democratic Party,Richard M. 'Rick' Nolan,N000127,0.24,0.05,0.40,383
+115,Republican Party,Ann Wagner,W000812,0.09,0.20,0.45,276
+115,Republican Party,Steve Daines,D000618,0.04,0.08,0.56,296
+115,Republican Party,Richard Hudson,H001067,0.09,0.13,0.56,470
+115,Republican Party,Robert Pittenger,P000606,0.15,0.31,0.43,550
+115,Republican Party,Mark Randall Meadows,M001187,0.24,0.36,0.38,536
+115,Republican Party,George E. B. Holding,H001065,0.07,0.08,0.22,90
+115,Democratic Party,Heidi Heitkamp,H001069,0.15,0.04,0.68,1049
+115,Republican Party,Kevin Cramer,C001096,0.09,0.13,0.48,542
+115,Republican Party,Debra Strobel 'Deb' Fischer,F000463,0.05,0.10,0.49,197
+115,Democratic Party,Ann M. 'Annie' Kuster,K000382,0.24,0.09,0.45,569
+115,Democratic Party,Michelle Lujan Grisham,L000580,0.14,0.06,0.64,667
+115,Democratic Party,Grace Meng,M001188,0.18,0.03,0.50,439
+115,Democratic Party,Hakeem S. Jeffries,J000294,0.42,0.13,0.13,293
+115,Democratic Party,Sean Patrick Maloney,M001185,0.10,0.01,0.46,892
+115,Republican Party,Chris Collins,C001092,0.06,0.24,0.62,277
+115,Republican Party,Brad R. Wenstrup,W000815,0.03,0.12,0.45,679
+115,Democratic Party,Joyce Beatty,B001281,0.34,0.09,0.27,326
+115,Republican Party,David Patrick 'Dave' Joyce,J000295,0.02,0.09,0.57,384
+115,Republican Party,James Frederick 'Jim' Bridenstine,B001283,0.21,0.36,0.11,200
+115,Republican Party,Markwayne Mullin,M001190,0.14,0.23,0.34,711
+115,Republican Party,Scott Perry,P000605,0.06,0.12,0.50,585
+115,Republican Party,Keith James Rothfus,R000598,0.10,0.17,0.31,329
+115,Democratic Party,Matthew A. 'Matt' Cartwright,C001090,0.08,0.07,0.61,221
+115,Republican Party,Tom Rice,R000597,0.13,0.25,0.44,485
+115,Republican Party,Rafael Edward 'Ted' Cruz,C001098,0.14,0.17,0.38,1217
+115,Republican Party,Randy K. Weber,W000814,0.03,0.09,0.57,289
+115,Democratic Party,Beto O'Rourke,O000170,0.05,0.04,0.66,1503
+115,Democratic Party,Joaquin Castro,C001091,0.21,0.06,0.40,432
+115,Republican Party,Roger Williams,W000816,0.05,0.11,0.46,697
+115,Democratic Party,Marc Allison Veasey,V000131,0.21,0.11,0.54,264
+115,Democratic Party,Filemon Vela,V000132,0.16,0.01,0.56,148
+115,Republican Party,Chris Stewart,S001192,0.06,0.16,0.46,325
+115,Democratic Party,Timothy 'Tim' Kaine,K000384,0.39,0.06,0.37,721
+115,Democratic Party,Derek Kilmer,K000381,0.10,0.05,0.68,603
+115,Democratic Party,Denny Heck,H001064,0.16,0.07,0.36,179
+115,Democratic Party,Mark Pocan,P000607,0.41,0.07,0.33,459
+115,Democratic Party,Robin Kelly,K000385,0.26,0.09,0.44,1427
+115,Republican Party,Marshall Clement 'Mark' Sanford Jr.,S000051,0.14,0.21,0.35,359
+115,Republican Party,Jason Thomas Smith,S001195,0.14,0.29,0.52,640
+115,Democratic Party,Cory Anthony Booker,B001288,0.41,0.08,0.16,737
+115,Democratic Party,Katherine M. Clark,C001101,0.30,0.05,0.31,476
+115,Republican Party,Bradley Byrne,B001289,0.11,0.19,0.51,1110
+115,Republican Party,David Alan 'Dave' Brat,B001290,0.22,0.28,0.43,998
+115,Democratic Party,Donald W. Norcross,N000188,0.17,0.06,0.49,625
+115,Democratic Party,Alma Adams,A000370,0.34,0.09,0.45,687
+115,Republican Party,Gary Palmer,P000609,0.04,0.11,0.64,283
+115,Republican Party,French Hill,H001072,0.03,0.09,0.59,560
+115,Republican Party,Bruce Eugene Westerman,W000821,0.04,0.07,0.65,645
+115,Republican Party,Martha McSally,M001197,0.02,0.04,0.61,583
+115,Democratic Party,Ruben Gallego,G000574,0.35,0.04,0.45,368
+115,Democratic Party,Mark DeSaulnier,D000623,0.35,0.08,0.45,593
+115,Republican Party,Steve Knight,K000387,0.01,0.02,0.63,246
+115,Democratic Party,Pete Aguilar,A000371,0.21,0.04,0.56,207
+115,Democratic Party,Ted Lieu,L000582,0.50,0.06,0.18,1242
+115,Democratic Party,Norma Torres,T000474,0.17,0.06,0.55,664
+115,Republican Party,Mimi Walters,W000820,0.07,0.08,0.52,747
+115,Republican Party,Ken Buck,B001297,0.09,0.13,0.43,288
+115,Republican Party,Carlos Curbelo,C001107,0.02,0.12,0.45,413
+115,Republican Party,Earl Leroy 'Buddy' Carter,C001103,0.10,0.16,0.45,365
+115,Republican Party,Jody Hice,H001071,0.10,0.19,0.48,499
+115,Republican Party,Barry Loudermilk,L000583,0.06,0.16,0.31,404
+115,Republican Party,Rick Allen,A000372,0.10,0.21,0.46,512
+115,Republican Party,Rodney Leland 'Rod' Blum,B001294,0.01,0.05,0.60,401
+115,Republican Party,David Young,Y000066,0.01,0.05,0.69,786
+115,Republican Party,Mike Bost,B001295,0.03,0.07,0.46,710
+115,Republican Party,Ralph Abraham,A000374,0.11,0.18,0.50,370
+115,Republican Party,Garret Graves,G000577,0.01,0.03,0.43,795
+115,Democratic Party,Seth Moulton,M001196,0.27,0.11,0.33,388
+115,Republican Party,Bruce Poliquin,P000611,0.09,0.05,0.59,423
+115,Republican Party,John Moolenaar,M001194,0.03,0.06,0.68,366
+115,Republican Party,Mike Bishop,B001293,0.06,0.12,0.43,269
+115,Republican Party,David A. 'Dave' Trott,T000475,0.01,0.08,0.43,264
+115,Democratic Party,Debbie Dingell,D000624,0.19,0.09,0.59,522
+115,Democratic Party,Brenda Lawrence,L000581,0.16,0.06,0.34,510
+115,Republican Party,Thomas Earl 'Tom' Emmer Jr.,E000294,0.03,0.14,0.59,479
+115,Republican Party,Ryan Zinke,Z000018,0.03,0.19,0.75,36
+115,Republican Party,David Rouzer,R000603,0.07,0.16,0.53,340
+115,Republican Party,Tom MacArthur,M001193,0.02,0.03,0.60,463
+115,Democratic Party,Bonnie Watson Coleman,W000822,0.32,0.13,0.27,583
+115,Republican Party,Lee M. Zeldin,Z000017,0.07,0.19,0.43,706
+115,Democratic Party,Kathleen Rice,R000602,0.37,0.05,0.39,182
+115,Republican Party,Elise Marie Stefanik,S001196,0.02,0.04,0.52,732
+115,Republican Party,John Michael Katko,K000386,0.02,0.08,0.62,424
+115,Republican Party,Steve Dane Russell,R000604,0.03,0.12,0.36,101
+115,Republican Party,Ryan Costello,C001106,0.02,0.05,0.43,387
+115,Democratic Party,Brendan Boyle,B001296,0.25,0.06,0.37,651
+115,Republican Party,John Ratcliffe,R000601,0.21,0.33,0.40,499
+115,Republican Party,Will Hurd,H001073,0.01,0.01,0.66,1600
+115,Republican Party,Brian Babin,B001291,0.10,0.24,0.52,746
+115,Republican Party,Ludmya Bourdeau 'Mia' Love,L000584,0.02,0.06,0.39,514
+115,Democratic Party,Donald 'Don' Beyer,B001292,0.42,0.10,0.21,1699
+115,Republican Party,Barbara Jean Comstock,C001105,0.03,0.03,0.65,289
+115,Republican Party,Dan Newhouse,N000189,0.03,0.12,0.66,462
+115,Republican Party,Glenn Grothman,G000576,0.06,0.16,0.53,324
+115,Republican Party,Alex Mooney,M001195,0.08,0.16,0.63,324
+115,Republican Party,Evan Jenkins,J000297,0.10,0.30,0.58,803
+115,Republican Party,Dan Sullivan,S001198,0.06,0.12,0.59,473
+115,Republican Party,David Perdue,P000612,0.12,0.33,0.35,375
+115,Republican Party,Joni Ernst,E000295,0.03,0.04,0.49,475
+115,Republican Party,Thom Tillis,T000476,0.06,0.09,0.37,360
+115,Republican Party,Mike Rounds,R000605,0.07,0.07,0.61,501
+115,Republican Party,Bradley 'Mark' Walker,W000819,0.09,0.15,0.57,506
+115,Republican Party,Benjamin Eric 'Ben' Sasse,S001197,0.15,0.20,0.30,205
+115,Republican Party,Daniel Michael 'Dan' Donovan Jr.,D000625,0.03,0.11,0.54,487
+115,Republican Party,Trent Kelly,K000388,0.00,0.05,0.71,449
+115,Democratic Party,Colleen W. Hanabusa,H001050,0.31,0.11,0.39,664
+115,Democratic Party,Carol Shea-Porter,S001170,0.42,0.07,0.34,369
+115,Republican Party,Darin LaHood,L000585,0.03,0.14,0.58,569
+115,Democratic Party,Bradley S. Schneider,S001190,0.21,0.06,0.50,1053
+115,Republican Party,Scott W Taylor,T000477,0.02,0.05,0.46,726
+115,Democratic Party,Tom O'Halleran,O000171,0.07,0.02,0.51,899
+115,Republican Party,James Comer,C001108,0.02,0.06,0.71,382
+115,Democratic Party,Anthony Gregory Brown,B001304,0.44,0.07,0.37,395
+115,Republican Party,Warren Davidson,D000626,0.10,0.17,0.44,535
+115,Democratic Party,Dwight Evans,E000296,0.33,0.06,0.40,1030
+115,Democratic Party,Kamala D Harris,H001075,0.35,0.09,0.21,1465
+115,Democratic Party,Margaret Wood 'Maggie' Hassan,H001076,0.27,0.04,0.37,723
+115,Democratic Party,Catherine Cortez Masto,C001113,0.37,0.08,0.42,477
+115,Republican Party,John Neely Kennedy,K000393,0.03,0.11,0.42,489
+115,Republican Party,Andy Biggs,B001302,0.10,0.19,0.41,1120
+115,Democratic Party,Ro Khanna,K000389,0.21,0.06,0.31,1920
+115,Democratic Party,Jimmy Panetta,P000613,0.15,0.06,0.54,480
+115,Democratic Party,Salud Carbajal,C001112,0.22,0.04,0.51,350
+115,Democratic Party,Nanette Barragan,B001300,0.14,0.03,0.53,363
+115,Democratic Party,J. Luis Correa,C001110,0.13,0.06,0.37,377
+115,Democratic Party,Lisa Blunt Blunt Rochester,B001303,0.13,0.08,0.59,344
+115,Republican Party,Matt Gaetz,G000578,0.08,0.09,0.51,1044
+115,Republican Party,Neal Dunn,D000628,0.06,0.12,0.53,538
+115,Republican Party,John Rutherford,R000609,0.04,0.10,0.55,165
+115,Democratic Party,Al J Lawson Jr,L000586,0.10,0.06,0.56,235
+115,Democratic Party,Stephanie Murphy,M001202,0.05,0.04,0.52,95
+115,Democratic Party,Darren Soto,S001200,0.16,0.03,0.61,231
+115,Democratic Party,Val Val 'Val' Demings,D000627,0.11,0.04,0.46,612
+115,Democratic Party,Charlie Joseph Crist,C001111,0.06,0.03,0.58,913
+115,Republican Party,Brian Mast,M001199,0.01,0.03,0.53,543
+115,Republican Party,Francis Rooney,R000607,0.08,0.10,0.52,756
+115,Republican Party,A. Drew Ferguson IV,F000465,0.02,0.07,0.50,585
+115,Democratic Party,Raja Raja Krishnamoorthi,K000391,0.29,0.08,0.31,1224
+115,Republican Party,Jim E Banks,B001299,0.07,0.17,0.50,799
+115,Republican Party,Trey Hollingsworth,H001074,0.08,0.12,0.45,173
+115,Republican Party,Roger W Marshall,M001198,0.03,0.08,0.61,470
+115,Republican Party,Clay Clay Higgins,H001077,0.03,0.07,0.57,497
+115,Republican Party,Mike Michael Johnson,J000299,0.06,0.15,0.49,686
+115,Democratic Party,Jamie Raskin,R000606,0.36,0.11,0.29,248
+115,Republican Party,Jack Bergman,B001301,0.03,0.13,0.59,379
+115,Republican Party,Paul Mitchell III,M001201,0.04,0.12,0.54,355
+115,Republican Party,Jason Mark Lewis,L000587,0.07,0.08,0.47,476
+115,Republican Party,Ted P Budd,B001305,0.07,0.15,0.44,550
+115,Republican Party,Don John Bacon,B001298,0.01,0.03,0.55,1005
+115,Democratic Party,Josh Gottheimer,G000583,0.08,0.06,0.56,1282
+115,Democratic Party,Jacky Rosen,R000608,0.34,0.07,0.30,524
+115,Democratic Party,Ruben Kihuen,K000390,0.12,0.06,0.52,902
+115,Democratic Party,Thomas Suozzi,S001201,0.11,0.08,0.56,812
+115,Democratic Party,Adriano Espaillat,E000297,0.27,0.05,0.32,1191
+115,Republican Party,John J. Faso,F000464,0.03,0.08,0.53,658
+115,Republican Party,Claudia Tenney,T000478,0.05,0.10,0.60,892
+115,Republican Party,Brian Fitzpatrick,F000466,0.00,0.04,0.55,860
+115,Republican Party,Lloyd K Smucker,S001199,0.03,0.14,0.48,496
+115,Republican Party,David Frank Kustoff,K000392,0.06,0.16,0.60,309
+115,Democratic Party,Vicente Gonzalez,G000581,0.07,0.03,0.62,369
+115,Republican Party,Jodey Cook Arrington,A000375,0.08,0.14,0.50,453
+115,Democratic Party,A. Donald McEachin,M001200,0.25,0.07,0.35,1004
+115,Republican Party,Thomas Alexander Garrett Jr.,G000580,0.04,0.09,0.46,480
+115,Democratic Party,Pramila Jayapal,J000298,0.46,0.14,0.29,1032
+115,Republican Party,Mike John Gallagher,G000579,0.01,0.04,0.59,481
+115,Republican Party,Liz Cheney,C001109,0.10,0.14,0.53,254
+115,Republican Party,Luther Strange,S001202,0.07,0.20,0.53,450
+115,Republican Party,Ron Estes,E000298,0.11,0.12,0.49,212
+115,Republican Party,Ralph Norman Jr.,N000190,0.05,0.24,0.47,176
+115,Republican Party,Karen Handel,H001078,0.04,0.13,0.52,23
+115,Democratic Party,Jimmy Gomez,G000585,0.31,0.05,0.40,444
+115,Republican Party,John Curtis,C001114,0.00,0.00,0.38,13
+114,Democratic Party,Sherrod Brown,B000944,0.11,0.17,0.40,111
+114,Democratic Party,Maria Cantwell,C000127,0.06,0.06,0.58,190
+114,Democratic Party,Benjamin L. 'Ben' Cardin,C000141,0.08,0.10,0.37,950
+114,Democratic Party,Thomas Richard 'Tom' Carper,C000174,0.01,0.04,0.79,516
+114,Democratic Party,Robert Patrick 'Bob' Casey Jr.,C001070,0.04,0.08,0.43,437
+114,Republican Party,Bob Corker,C001071,0.10,0.03,0.44,409
+114,Democratic Party,Dianne Feinstein,F000062,0.04,0.07,0.30,222
+114,Republican Party,Orrin G. Hatch,H000338,0.14,0.07,0.43,670
+114,Democratic Party,Amy Jean Klobuchar,K000367,0.03,0.09,0.57,590
+114,Democratic Party,Claire McCaskill,M001170,0.08,0.07,0.36,404
+114,Democratic Party,Robert 'Bob' Menendez,M000639,0.09,0.04,0.33,123
+114,Democratic Party,Bill Nelson,N000032,0.00,0.00,0.64,25
+114,Democratic Party,Bernard 'Bernie' Sanders,S000033,0.09,0.08,0.12,4805
+114,Democratic Party,Debbie Ann Stabenow,S000770,0.05,0.14,0.53,336
+114,Democratic Party,Jon Tester,T000464,0.01,0.02,0.56,1191
+114,Democratic Party,Sheldon Whitehouse,W000802,0.06,0.09,0.53,592
+114,Republican Party,John A. Barrasso,B001261,0.19,0.14,0.36,69
+114,Republican Party,Roger F. Wicker,W000437,0.11,0.09,0.33,849
+114,Republican Party,Lamar Alexander,A000360,0.12,0.16,0.51,361
+114,Republican Party,Susan M. Collins,C001035,0.02,0.01,0.67,320
+114,Republican Party,John Cornyn,C001056,0.20,0.10,0.35,1051
+114,Democratic Party,Richard J. 'Dick' Durbin,D000563,0.09,0.13,0.32,718
+114,Republican Party,Michael Bradley 'Mike' Enzi,E000285,0.12,0.03,0.37,624
+114,Republican Party,Lindsey Olin Graham,G000359,0.21,0.16,0.28,1060
+114,Republican Party,James M. 'Jim' Inhofe,I000024,0.22,0.09,0.36,546
+114,Republican Party,Mitch McConnell,M000355,0.15,0.07,0.22,937
+114,Democratic Party,Jeff Merkley,M001176,0.14,0.12,0.32,547
+114,Democratic Party,John Francis 'Jack' Reed,R000122,0.04,0.07,0.51,166
+114,Republican Party,Patrick 'Pat' Roberts,R000307,0.13,0.04,0.55,1013
+114,Republican Party,Jefferson B. 'Jeff' Sessions,S001141,0.19,0.03,0.10,395
+114,Democratic Party,Jeanne Shaheen,S001181,0.04,0.08,0.51,590
+114,Democratic Party,Tom S. Udall,U000039,0.04,0.10,0.63,385
+114,Democratic Party,Mark Warner,W000805,0.03,0.08,0.45,506
+114,Democratic Party,Kirsten E. Gillibrand,G000555,0.04,0.20,0.32,317
+114,Democratic Party,Alan Stuart 'Al' Franken,F000457,0.13,0.19,0.38,560
+114,Democratic Party,Christopher Andrew 'Chris' Coons,C001088,0.06,0.06,0.57,358
+114,Democratic Party,Joe Manchin III,M001183,0.00,0.02,0.75,1326
+114,Republican Party,Robert B. Aderholt,A000055,0.05,0.01,0.60,303
+114,Republican Party,Justin Amash,A000367,0.13,0.12,0.18,422
+114,Republican Party,Kelly Ayotte,A000368,0.03,0.01,0.56,1228
+114,Democratic Party,Tammy Baldwin,B001230,0.07,0.09,0.49,1211
+114,Republican Party,Louis J. 'Lou' Barletta,B001269,0.16,0.08,0.53,1138
+114,Republican Party,Joe Linus Barton,B000213,0.20,0.10,0.40,1042
+114,Democratic Party,Karen Bass,B001270,0.07,0.21,0.41,1061
+114,Democratic Party,Xavier Becerra,B000287,0.13,0.14,0.45,1524
+114,Republican Party,Dan Benishek,B001271,0.05,0.01,0.58,593
+114,Democratic Party,Michael F. Bennet,B001267,0.02,0.03,0.51,629
+114,Republican Party,Gus M. Bilirakis,B001257,0.04,0.02,0.47,1446
+114,Republican Party,Rob Bishop,B001250,0.06,0.03,0.55,96
+114,Democratic Party,Sanford D. Bishop Jr.,B000490,0.00,0.03,0.68,475
+114,Republican Party,Diane Black,B001273,0.27,0.10,0.35,1181
+114,Republican Party,Marsha Wedgeworth Blackburn,B001243,0.26,0.06,0.22,1618
+114,Democratic Party,Earl Blumenauer,B000574,0.07,0.06,0.46,439
+114,Democratic Party,Richard Blumenthal,B001277,0.05,0.06,0.27,764
+114,Republican Party,Roy Blunt,B000575,0.24,0.04,0.46,1371
+114,Republican Party,John Nichols Boozman,B001236,0.10,0.03,0.61,1782
+114,Republican Party,Charles William Boustany Jr.,B001255,0.19,0.08,0.50,1101
+114,Democratic Party,Barbara Boxer,B000711,0.22,0.26,0.20,260
+114,Republican Party,Kevin P. Brady,B000755,0.16,0.08,0.47,4128
+114,Democratic Party,Robert Alan 'Bob' Brady,B001227,0.07,0.05,0.34,58
+114,Republican Party,Morris Jackson 'Mo' Brooks Jr.,B001274,0.12,0.04,0.61,321
+114,Democratic Party,Corrine Brown,B000911,0.02,0.02,0.21,258
+114,Republican Party,Vern Buchanan,B001260,0.12,0.02,0.30,416
+114,Republican Party,Larry Bucshon,B001275,0.14,0.08,0.59,849
+114,Republican Party,Michael C. Burgess,B001248,0.09,0.03,0.52,500
+114,Republican Party,Richard M. Burr,B001135,0.13,0.05,0.39,1714
+114,Democratic Party,George Kenneth 'G.K.' Butterfield Jr.,B001251,0.02,0.07,0.58,460
+114,Republican Party,Ken S. Calvert,C000059,0.22,0.08,0.39,188
+114,Republican Party,Shelley Moore Capito,C001047,0.05,0.01,0.61,1051
+114,Democratic Party,Lois Capps,C001036,0.02,0.07,0.52,506
+114,Democratic Party,Michael E. Capuano,C001037,0.10,0.11,0.41,206
+114,Democratic Party,John C. Carney,C001083,0.00,0.03,0.62,651
+114,Democratic Party,Andre Carson,C001072,0.01,0.07,0.51,539
+114,Republican Party,John R. Carter,C001051,0.10,0.07,0.56,2503
+114,Republican Party,Bill Cassidy,C001075,0.12,0.04,0.62,1203
+114,Democratic Party,Kathy Castor,C001066,0.13,0.09,0.53,645
+114,Republican Party,Steve J. Chabot,C000266,0.03,0.04,0.61,428
+114,Republican Party,Jason Chaffetz,C001076,0.19,0.05,0.21,2324
+114,Democratic Party,Judy M. Chu,C001080,0.06,0.07,0.51,728
+114,Democratic Party,David N. Cicilline,C001084,0.09,0.09,0.49,804
+114,Democratic Party,Yvette D. Clarke,C001067,0.05,0.09,0.35,968
+114,Democratic Party,William Lacy 'Lacy' Clay Jr.,C001049,0.12,0.12,0.47,241
+114,Democratic Party,Emanuel Cleaver II,C001061,0.05,0.16,0.38,397
+114,Democratic Party,James E. 'Jim' Clyburn,C000537,0.06,0.13,0.46,235
+114,Republican Party,Daniel Ray 'Dan' Coats,C000542,0.12,0.03,0.48,1079
+114,Republican Party,Mike Coffman,C001077,0.07,0.03,0.54,761
+114,Democratic Party,Steve 'Steve' Cohen,C001068,0.09,0.16,0.40,951
+114,Republican Party,Thomas Jeffery 'Tom' Cole,C001053,0.08,0.07,0.56,567
+114,Republican Party,Kenneth Michael 'Mike' Conaway,C001062,0.06,0.02,0.74,479
+114,Democratic Party,Gerald Edward 'Gerry' Connolly,C001078,0.09,0.11,0.35,323
+114,Democratic Party,John James Conyers Jr.,C000714,0.09,0.13,0.33,301
+114,Democratic Party,James Hayes Shofner 'Jim' Cooper,C000754,0.03,0.09,0.58,310
+114,Democratic Party,Jim Costa,C001059,0.01,0.02,0.64,536
+114,Democratic Party,Joe Courtney,C001069,0.03,0.07,0.75,598
+114,Republican Party,Michael Dean 'Mike' Crapo,C000880,0.04,0.04,0.58,716
+114,Republican Party,Eric A. 'Rick' Crawford,C001087,0.05,0.03,0.53,577
+114,Republican Party,Ander Crenshaw,C001045,0.04,0.01,0.36,381
+114,Democratic Party,Joseph 'Joe' Crowley,C001038,0.07,0.23,0.44,468
+114,Democratic Party,Henry Cuellar,C001063,0.01,0.02,0.71,943
+114,Republican Party,John Abney Culberson,C001048,0.12,0.24,0.48,82
+114,Democratic Party,Elijah Eugene Cummings,C000984,0.08,0.11,0.47,881
+114,Democratic Party,Danny K. Davis,D000096,0.01,0.03,0.63,128
+114,Democratic Party,Susan A. Davis,D000598,0.01,0.04,0.47,456
+114,Democratic Party,Peter Anthony DeFazio,D000191,0.09,0.07,0.37,260
+114,Democratic Party,Diana Louise DeGette,D000197,0.08,0.12,0.36,702
+114,Democratic Party,Rosa Luisa DeLauro,D000216,0.05,0.09,0.47,549
+114,Republican Party,Jeff Denham,D000612,0.06,0.02,0.45,891
+114,Republican Party,Charles W. 'Charlie' Dent,D000604,0.06,0.09,0.59,753
+114,Republican Party,Scott DesJarlais,D000616,0.32,0.16,0.23,284
+114,Democratic Party,Theodore E. 'Ted' Deutch,D000610,0.07,0.10,0.38,703
+114,Republican Party,Mario Diaz-Balart,D000600,0.07,0.02,0.54,1130
+114,Democratic Party,Lloyd A. Doggett,D000399,0.16,0.10,0.51,1312
+114,Democratic Party,Joe Donnelly,D000607,0.01,0.03,0.76,1270
+114,Democratic Party,Michael F. 'Mike' Doyle,D000482,0.28,0.14,0.32,71
+114,Republican Party,Sean P. Duffy,D000614,0.11,0.04,0.49,1144
+114,Republican Party,Jeff Duncan,D000615,0.31,0.12,0.27,658
+114,Republican Party,John James 'Jimmy' Duncan Jr.,D000533,0.07,0.08,0.54,197
+114,Democratic Party,Donna F. Edwards,E000290,0.06,0.11,0.37,1346
+114,Democratic Party,Keith Maurice Ellison,E000288,0.09,0.13,0.39,1173
+114,Republican Party,Renee L. Ellmers,E000291,0.15,0.07,0.50,1815
+114,Democratic Party,Eliot L. Engel,E000179,0.09,0.14,0.26,152
+114,Democratic Party,Anna Georges Eshoo,E000215,0.03,0.09,0.41,184
+114,Republican Party,Blake Farenthold,F000460,0.11,0.04,0.58,1733
+114,Democratic Party,Sam Farr,F000030,0.06,0.09,0.61,303
+114,Democratic Party,Chaka Fattah,F000043,0.00,0.11,0.78,36
+114,Republican Party,Stephen Lee Fincher,F000458,0.17,0.03,0.44,253
+114,Republican Party,Michael G. 'Mike' Fitzpatrick,F000451,0.03,0.01,0.45,1191
+114,Republican Party,Jeff Flake,F000444,0.06,0.03,0.33,412
+114,Republican Party,Charles J. 'Chuck' Fleischmann,F000459,0.10,0.03,0.55,406
+114,Republican Party,John C Fleming Jr,F000456,0.37,0.15,0.21,1609
+114,Republican Party,William H. 'Bill' Flores,F000461,0.14,0.09,0.47,2157
+114,Republican Party,James Randy 'Randy' Forbes,F000445,0.03,0.05,0.46,1182
+114,Republican Party,Jeff Lane Fortenberry,F000449,0.01,0.01,0.57,361
+114,Republican Party,Virginia Ann Foxx,F000450,0.13,0.06,0.55,1102
+114,Republican Party,Trent Franks,F000448,0.14,0.07,0.22,525
+114,Republican Party,Rodney P. Frelinghuysen,F000372,0.06,0.00,0.78,132
+114,Democratic Party,Marcia L. Fudge,F000455,0.02,0.07,0.54,977
+114,Democratic Party,John Raymond Garamendi,G000559,0.03,0.05,0.53,1019
+114,Republican Party,Cory Gardner,G000562,0.13,0.01,0.50,1213
+114,Republican Party,Scott Garrett,G000548,0.12,0.04,0.42,454
+114,Republican Party,Bob Gibbs,G000563,0.10,0.05,0.51,702
+114,Republican Party,Christopher P. 'Chris' Gibson,G000564,0.01,0.02,0.85,722
+114,Republican Party,Louie B. Gohmert Jr.,G000552,0.16,0.07,0.25,1354
+114,Republican Party,Robert William 'Bob' Goodlatte,G000289,0.11,0.09,0.47,1024
+114,Republican Party,Paul Anthony Gosar,G000565,0.29,0.13,0.40,1577
+114,Republican Party,Harold Watson 'Trey' Gowdy III,G000566,0.23,0.03,0.18,268
+114,Republican Party,Kay Granger,G000377,0.05,0.02,0.71,429
+114,Republican Party,Charles Ernest 'Chuck' Grassley,G000386,0.12,0.05,0.28,1261
+114,Republican Party,Sam B. Graves,G000546,0.19,0.08,0.51,275
+114,Republican Party,Tom Graves,G000560,0.14,0.07,0.41,847
+114,Democratic Party,Al Green,G000553,0.00,0.04,0.22,352
+114,Democratic Party,Gene Eugene Green,G000410,0.01,0.07,0.69,543
+114,Republican Party,Howard Morgan 'Morgan' Griffith,G000568,0.08,0.08,0.55,783
+114,Democratic Party,Raul M. Grijalva,G000551,0.16,0.16,0.40,964
+114,Republican Party,Brett Guthrie,G000558,0.12,0.06,0.58,612
+114,Democratic Party,Luis V. Gutierrez,G000535,0.10,0.10,0.23,620
+114,Republican Party,Richard L. Hanna,H001051,0.02,0.03,0.44,857
+114,Republican Party,Gregg Harper,H001045,0.04,0.02,0.66,349
+114,Republican Party,Andy Harris,H001052,0.09,0.05,0.59,923
+114,Republican Party,Vicky Hartzler,H001053,0.13,0.07,0.51,483
+114,Democratic Party,Alcee L. Hastings,H000324,0.10,0.13,0.29,590
+114,Republican Party,Joseph John 'Joe' Heck,H001055,0.04,0.03,0.50,1464
+114,Democratic Party,Martin Heinrich,H001046,0.10,0.07,0.61,1159
+114,Republican Party,Thomas 'Jeb' Hensarling,H001036,0.25,0.14,0.21,376
+114,Republican Party,Jaime Lynn Herrera Beutler,H001056,0.03,0.01,0.61,403
+114,Democratic Party,Brian Higgins,H001038,0.00,0.02,0.76,369
+114,Democratic Party,James Andrew 'Jim' Himes,H001047,0.05,0.09,0.44,711
+114,Democratic Party,Ruben E. Hinojosa,H000636,0.01,0.06,0.72,504
+114,Democratic Party,Mazie K. Hirono,H001042,0.05,0.15,0.35,195
+114,Republican Party,John Henry Hoeven III,H001061,0.02,0.02,0.72,706
+114,Democratic Party,Michael M. 'Mike' Honda,H001034,0.07,0.12,0.45,1233
+114,Democratic Party,Steny H. Hoyer,H000874,0.20,0.25,0.31,2105
+114,Republican Party,Timothy Alan 'Tim' Huelskamp,H001057,0.23,0.10,0.36,1151
+114,Republican Party,Bill Huizenga,H001058,0.14,0.10,0.60,932
+114,Republican Party,Randy Hultgren,H001059,0.05,0.04,0.50,684
+114,Republican Party,Duncan D. Hunter,H001048,0.09,0.05,0.28,287
+114,Republican Party,Robert Hurt,H001060,0.05,0.01,0.62,681
+114,Republican Party,John H. 'Johnny' Isakson,I000055,0.42,0.08,0.17,242
+114,Democratic Party,Steve J. Israel,I000057,0.07,0.12,0.42,481
+114,Republican Party,Darrell E. Issa,I000056,0.24,0.03,0.26,980
+114,Democratic Party,Sheila Jackson Lee,J000032,0.05,0.07,0.47,488
+114,Republican Party,Lynn Jenkins,J000290,0.16,0.05,0.49,752
+114,Republican Party,William Leslie 'Bill' Johnson,J000292,0.17,0.06,0.57,1001
+114,Democratic Party,Eddie Bernice Johnson,J000126,0.06,0.10,0.47,372
+114,Democratic Party,Henry C. 'Hank' Johnson Jr.,J000288,0.04,0.07,0.38,730
+114,Republican Party,Ron Johnson,J000293,0.06,0.05,0.54,1761
+114,Republican Party,Sam Robert Johnson,J000174,0.20,0.09,0.46,834
+114,Republican Party,Walter B. Jones Jr.,J000255,0.18,0.08,0.35,552
+114,Republican Party,James Daniel 'Jim' Jordan,J000289,0.20,0.15,0.29,282
+114,Democratic Party,Marcy Kaptur,K000009,0.03,0.04,0.57,795
+114,Democratic Party,William Richard 'Bill' Keating,K000375,0.01,0.02,0.62,446
+114,Republican Party,Mike Kelly,K000376,0.23,0.12,0.44,508
+114,Democratic Party,Ron James Kind,K000188,0.05,0.06,0.64,585
+114,Republican Party,Peter T. 'Pete' King,K000210,0.15,0.12,0.52,740
+114,Republican Party,Steve A. King,K000362,0.16,0.10,0.28,1018
+114,Republican Party,Adam Kinzinger,K000378,0.09,0.05,0.41,746
+114,Republican Party,Mark Steven Kirk,K000360,0.05,0.03,0.39,2173
+114,Republican Party,John Paul Kline,K000363,0.13,0.11,0.46,328
+114,Republican Party,Raul R. Labrador,L000573,0.07,0.12,0.50,596
+114,Republican Party,Doug Lamborn,L000564,0.17,0.09,0.39,1538
+114,Republican Party,Leonard J. Lance,L000567,0.06,0.06,0.51,758
+114,Democratic Party,James R. 'Jim' Langevin,L000559,0.01,0.06,0.59,1046
+114,Republican Party,James Lankford,L000575,0.14,0.04,0.39,1633
+114,Democratic Party,Rick Larsen,L000560,0.09,0.15,0.56,1134
+114,Democratic Party,John Barry Larson,L000557,0.04,0.13,0.45,264
+114,Republican Party,Robert E. 'Bob' Latta,L000566,0.04,0.02,0.61,723
+114,Democratic Party,Patrick Joseph Leahy,L000174,0.10,0.14,0.30,256
+114,Democratic Party,Barbara Lee,L000551,0.09,0.12,0.28,1498
+114,Republican Party,Mike Lee,L000577,0.13,0.13,0.35,990
+114,Democratic Party,Sander Martin 'Sandy' Levin,L000263,0.07,0.11,0.56,475
+114,Democratic Party,John R. Lewis,L000287,0.02,0.08,0.30,235
+114,Democratic Party,Daniel William 'Dan' Lipinski,L000563,0.02,0.02,0.70,374
+114,Republican Party,Frank Alo LoBiondo,L000554,0.08,0.04,0.68,416
+114,Democratic Party,David 'Dave' Loebsack,L000565,0.04,0.08,0.69,240
+114,Democratic Party,Zoe Lofgren,L000397,0.08,0.14,0.35,130
+114,Republican Party,Billy Long,L000576,0.15,0.07,0.34,642
+114,Democratic Party,Nita M. Lowey,L000480,0.09,0.12,0.49,498
+114,Republican Party,Frank Dean Lucas,L000491,0.11,0.03,0.63,219
+114,Republican Party,Blaine Luetkemeyer,L000569,0.21,0.08,0.34,613
+114,Democratic Party,Ben Ray Lujan,L000570,0.12,0.10,0.52,523
+114,Republican Party,Cynthia M. Lummis,L000571,0.22,0.06,0.48,110
+114,Democratic Party,Stephen F. Lynch,L000562,0.01,0.04,0.72,399
+114,Democratic Party,Carolyn Bosher Maloney,M000087,0.07,0.21,0.19,207
+114,Republican Party,Kenny Ewell Marchant,M001158,0.15,0.07,0.32,646
+114,Republican Party,Tom Marino,M001179,0.21,0.14,0.33,861
+114,Democratic Party,Edward John 'Ed' Markey,M000133,0.11,0.13,0.32,1838
+114,Democratic Party,Doris O. Matsui,M001163,0.04,0.10,0.42,648
+114,Republican Party,John S. McCain,M000303,0.14,0.03,0.38,647
+114,Republican Party,Kevin McCarthy,M001165,0.11,0.06,0.40,802
+114,Republican Party,Michael Thomas McCaul Sr.,M001157,0.23,0.07,0.33,1151
+114,Republican Party,Tom McClintock,M001177,0.18,0.11,0.43,103
+114,Democratic Party,Betty Louise McCollum,M001143,0.15,0.16,0.57,654
+114,Democratic Party,Jim A. McDermott,M000404,0.07,0.09,0.46,245
+114,Democratic Party,James P. 'Jim' McGovern,M000312,0.04,0.15,0.62,1055
+114,Republican Party,Patrick T. McHenry,M001156,0.14,0.08,0.53,1070
+114,Republican Party,David B. McKinley,M001180,0.18,0.05,0.51,819
+114,Republican Party,Cathy McMorris Rodgers,M001159,0.05,0.10,0.56,900
+114,Democratic Party,Jerry McNerney,M001166,0.03,0.05,0.67,679
+114,Republican Party,Patrick 'Pat' Meehan,M001181,0.07,0.02,0.55,793
+114,Democratic Party,Gregory Weldon Meeks,M001137,0.09,0.11,0.31,697
+114,Republican Party,John L. Mica,M000689,0.02,0.03,0.79,1085
+114,Democratic Party,Barbara A. Mikulski,M000702,0.03,0.11,0.50,137
+114,Republican Party,Candice S. Miller,M001150,0.00,0.00,0.40,10
+114,Republican Party,Jeff Miller,M001144,0.17,0.03,0.35,427
+114,Democratic Party,Gwen Moore,M001160,0.13,0.16,0.28,1247
+114,Republican Party,Jerry Moran,M000934,0.08,0.04,0.69,1866
+114,Republican Party,Mick Mulvaney,M001182,0.20,0.13,0.37,1203
+114,Republican Party,Lisa Ann Murkowski,M001153,0.03,0.01,0.61,2385
+114,Democratic Party,Christopher Scott 'Chris' Murphy,M001169,0.04,0.04,0.41,886
+114,Republican Party,Timothy Francis 'Tim' Murphy,M001151,0.05,0.04,0.45,551
+114,Democratic Party,Patty Murray,M001111,0.30,0.20,0.36,554
+114,Democratic Party,Jerrold L. Nadler,N000002,0.25,0.16,0.26,382
+114,Democratic Party,Grace F. Napolitano,N000179,0.01,0.05,0.76,226
+114,Democratic Party,Richard E. Neal,N000015,0.03,0.11,0.75,226
+114,Republican Party,Randy Neugebauer,N000182,0.11,0.05,0.55,256
+114,Republican Party,Kristi L. Noem,N000184,0.13,0.04,0.53,739
+114,Republican Party,Richard B. 'Rich' Nugent,N000185,0.00,0.02,0.56,54
+114,Republican Party,Devin G. Nunes,N000181,0.05,0.04,0.35,159
+114,Republican Party,Pete Olson,O000168,0.11,0.02,0.51,1826
+114,Republican Party,Steven McCarty Palazzo,P000601,0.20,0.09,0.37,451
+114,Democratic Party,Frank J. Pallone Jr.,P000034,0.09,0.17,0.60,1122
+114,Democratic Party,Bill J. Pascrell Jr.,P000096,0.06,0.10,0.55,601
+114,Republican Party,Rand Paul,P000603,0.16,0.13,0.18,8823
+114,Republican Party,Erik Paulsen,P000594,0.03,0.02,0.42,1047
+114,Republican Party,Stevan E. 'Steve' Pearce,P000588,0.10,0.03,0.61,1487
+114,Democratic Party,Nancy Pelosi,P000197,0.28,0.34,0.13,724
+114,Democratic Party,Ed Perlmutter,P000593,0.07,0.11,0.58,807
+114,Democratic Party,Gary C. Peters,P000595,0.03,0.09,0.65,1161
+114,Democratic Party,Chellie Pingree,P000597,0.06,0.07,0.52,532
+114,Republican Party,Joseph R. 'Joe' Pitts,P000373,0.10,0.04,0.27,372
+114,Republican Party,Ted Poe,P000592,0.06,0.01,0.37,935
+114,Democratic Party,Jared Polis,P000598,0.10,0.11,0.44,262
+114,Republican Party,Mike Pompeo,P000602,0.20,0.04,0.54,1285
+114,Republican Party,Robert J. 'Rob' Portman,P000449,0.11,0.05,0.57,2557
+114,Republican Party,Bill Posey,P000599,0.04,0.03,0.43,156
+114,Democratic Party,David Eugene Price,P000523,0.07,0.12,0.43,122
+114,Republican Party,Tom Price,P000591,0.30,0.16,0.18,809
+114,Democratic Party,Mike Quigley,Q000023,0.06,0.12,0.47,843
+114,Democratic Party,Charles B. 'Charlie' Rangel,R000053,0.06,0.10,0.27,490
+114,Republican Party,Tom W. Reed II,R000585,0.17,0.02,0.47,1851
+114,Republican Party,David G. 'Dave' Reichert,R000578,0.02,0.02,0.61,598
+114,Democratic Party,Harry M. Reid,R000146,0.50,0.34,0.16,288
+114,Republican Party,James B. 'Jim' Renacci,R000586,0.04,0.05,0.51,1325
+114,Republican Party,Reid J. Ribble,R000587,0.03,0.01,0.43,815
+114,Democratic Party,Cedric L. Richmond,R000588,0.03,0.06,0.37,354
+114,Republican Party,Edward Scott 'Scott' Rigell,R000589,0.06,0.02,0.47,917
+114,Republican Party,Martha Roby,R000591,0.18,0.09,0.55,659
+114,Republican Party,David P. 'Phil' Roe,R000582,0.19,0.10,0.48,495
+114,Republican Party,Harold 'Hal' Rogers,R000395,0.02,0.02,0.60,530
+114,Republican Party,Michael Dennis 'Mike' Rogers,R000575,0.06,0.02,0.54,1150
+114,Republican Party,Dana Tyrone Rohrabacher,R000409,0.07,0.03,0.45,246
+114,Republican Party,Todd Rokita,R000592,0.08,0.10,0.62,960
+114,Republican Party,Thomas J. 'Tom' Rooney,R000583,0.14,0.06,0.41,822
+114,Republican Party,Ileana Ros-Lehtinen,R000435,0.03,0.01,0.30,6215
+114,Republican Party,Peter J. Roskam,R000580,0.19,0.06,0.28,531
+114,Republican Party,Dennis A. Ross,R000593,0.14,0.08,0.55,509
+114,Democratic Party,Lucille Roybal-Allard,R000486,0.06,0.09,0.49,1068
+114,Republican Party,Edward R. 'Ed' Royce,R000487,0.10,0.04,0.51,688
+114,Republican Party,Marco Antonio Rubio,R000595,0.17,0.05,0.29,2460
+114,Democratic Party,C. A. Dutch Ruppersberger,R000576,0.01,0.02,0.56,520
+114,Democratic Party,Bobby L. Rush,R000515,0.00,0.05,0.46,303
+114,Republican Party,Paul D. Ryan,R000570,0.19,0.19,0.14,1520
+114,Democratic Party,Tim J. Ryan,R000577,0.13,0.19,0.42,1240
+114,Democratic Party,Loretta L. Sanchez,S000030,0.02,0.09,0.40,984
+114,Democratic Party,John P. Sarbanes,S001168,0.02,0.06,0.52,815
+114,Republican Party,Stephen Joseph 'Steve' Scalise,S001176,0.17,0.08,0.36,1330
+114,Democratic Party,Janice D. 'Jan' Schakowsky,S001145,0.15,0.18,0.30,986
+114,Democratic Party,Adam B. Schiff,S001150,0.11,0.10,0.33,835
+114,Democratic Party,Kurt Schrader,S001180,0.02,0.03,0.73,484
+114,Democratic Party,Charles E. 'Chuck' Schumer,S000148,0.07,0.11,0.48,1176
+114,Republican Party,David Schweikert,S001183,0.11,0.03,0.25,4297
+114,Republican Party,James 'Austin' Scott,S001189,0.08,0.06,0.62,582
+114,Democratic Party,David Albert Scott,S001157,0.03,0.05,0.64,211
+114,Democratic Party,Robert C. 'Bobby' Scott,S000185,0.05,0.16,0.37,446
+114,Republican Party,Tim Scott,S001184,0.11,0.03,0.44,1186
+114,Republican Party,Frank James 'Jim' Sensenbrenner Jr.,S000244,0.12,0.06,0.32,312
+114,Democratic Party,Jose E. Serrano,S000248,0.03,0.05,0.45,561
+114,Republican Party,Peter Anderson 'Pete' Sessions,S000250,0.22,0.09,0.34,984
+114,Democratic Party,Terrycina Andrea 'Terri' Sewell,S001185,0.01,0.04,0.54,715
+114,Republican Party,Richard Craig Shelby,S000320,0.22,0.07,0.42,648
+114,Democratic Party,Bradley James 'Brad' Sherman,S000344,0.06,0.06,0.26,231
+114,Republican Party,John M. Shimkus,S000364,0.12,0.09,0.52,840
+114,Republican Party,William Franklin 'Bill' Shuster,S001154,0.18,0.12,0.43,660
+114,Republican Party,Michael K. 'Mike' Simpson,S001148,0.08,0.04,0.61,108
+114,Democratic Party,Albio Sires,S001165,0.02,0.03,0.44,593
+114,Democratic Party,Louise McIntosh Slaughter,S000480,0.08,0.10,0.51,882
+114,Democratic Party,Adam Smith,S000510,0.06,0.10,0.48,869
+114,Republican Party,Adrian Michael Smith,S001172,0.25,0.10,0.27,67
+114,Republican Party,Christopher H. 'Chris' Smith,S000522,0.03,0.02,0.49,324
+114,Republican Party,Lamar S. Smith,S000583,0.14,0.08,0.47,917
+114,Democratic Party,Jackie Speier,S001175,0.09,0.10,0.39,758
+114,Republican Party,Steven Ernst 'Steve' Stivers,S001187,0.03,0.03,0.61,659
+114,Republican Party,Marlin A. Stutzman,S001188,0.10,0.14,0.47,995
+114,Democratic Party,Linda T. Sanchez,S001156,0.06,0.08,0.53,595
+114,Democratic Party,Bennie G. Thompson,T000193,0.06,0.07,0.60,345
+114,Democratic Party,Mike Michael Thompson,T000460,0.09,0.13,0.64,1435
+114,Republican Party,Glenn Thompson,T000467,0.05,0.09,0.66,930
+114,Republican Party,Mac M. Thornberry,T000238,0.18,0.06,0.38,448
+114,Republican Party,John Thune,T000250,0.13,0.08,0.50,317
+114,Republican Party,Patrick Joseph 'Pat' Tiberi,T000462,0.15,0.08,0.47,491
+114,Republican Party,Scott R. Tipton,T000470,0.07,0.02,0.59,807
+114,Democratic Party,Paul Tonko,T000469,0.07,0.10,0.52,709
+114,Republican Party,Patrick J. 'Pat' Toomey,T000461,0.10,0.03,0.35,2055
+114,Democratic Party,Niki S. Tsongas,T000465,0.02,0.06,0.65,1557
+114,Republican Party,Michael R. 'Mike' Turner,T000463,0.07,0.01,0.47,290
+114,Republican Party,Fred Stephen Upton,U000031,0.03,0.03,0.62,697
+114,Democratic Party,Chris Van Hollen Jr.,V000128,0.17,0.15,0.32,942
+114,Democratic Party,Nydia Margarita Velazquez,V000081,0.11,0.04,0.34,209
+114,Democratic Party,Peter John 'Pete' Visclosky,V000108,0.01,0.08,0.65,836
+114,Republican Party,David Vitter,V000127,0.14,0.03,0.53,934
+114,Republican Party,Tim Walberg,W000798,0.08,0.01,0.55,1019
+114,Republican Party,Greg P. Walden,W000791,0.05,0.03,0.73,606
+114,Democratic Party,Timothy James 'Tim' Walz,W000799,0.00,0.03,0.78,103
+114,Democratic Party,Debbie Wasserman Schultz,W000797,0.15,0.29,0.44,1706
+114,Democratic Party,Maxine Waters,W000187,0.12,0.04,0.26,117
+114,Republican Party,Daniel Webster,W000806,0.01,0.04,0.77,940
+114,Democratic Party,Peter Francis 'Pete' Welch,W000800,0.03,0.09,0.56,350
+114,Republican Party,Lynn A. Westmoreland,W000796,0.17,0.06,0.51,483
+114,Republican Party,Wayne Edward 'Ed' Whitfield,W000413,0.08,0.01,0.37,714
+114,Republican Party,Joe G. Wilson,W000795,0.13,0.05,0.41,705
+114,Democratic Party,Frederica Smith Wilson,W000808,0.01,0.10,0.51,597
+114,Republican Party,Robert Joseph 'Rob' Wittman,W000804,0.06,0.10,0.45,461
+114,Republican Party,Steve Womack,W000809,0.07,0.04,0.57,898
+114,Republican Party,Rob Woodall,W000810,0.14,0.07,0.47,469
+114,Democratic Party,Ron Wyden,W000779,0.17,0.13,0.22,223
+114,Democratic Party,John A. Yarmuth,Y000062,0.07,0.07,0.49,311
+114,Republican Party,Kevin Wayne Yoder,Y000063,0.08,0.06,0.56,1001
+114,Republican Party,Don E. Young,Y000033,0.14,0.03,0.46,1016
+114,Republican Party,Todd C. Young,Y000064,0.22,0.14,0.40,1359
+114,Republican Party,Dean Arthur Heller,H001041,0.04,0.01,0.49,257
+114,Democratic Party,Janice Hahn,H001063,0.02,0.06,0.60,955
+114,Republican Party,Mark E. Amodei,A000369,0.04,0.05,0.57,307
+114,Democratic Party,Suzanne Bonamici,B001278,0.03,0.08,0.58,1072
+114,Democratic Party,Suzan K. DelBene,D000617,0.02,0.03,0.49,1678
+114,Republican Party,Thomas Harold Massie,M001184,0.06,0.09,0.41,938
+114,Democratic Party,Donald Milford Payne Jr.,P000604,0.04,0.07,0.50,1198
+114,Democratic Party,Brian Emanuel Schatz,S001194,0.07,0.07,0.24,662
+114,Republican Party,Matt Salmon,S000018,0.09,0.02,0.38,1793
+114,Democratic Party,Bill Foster,F000454,0.05,0.10,0.54,617
+114,Democratic Party,Alan Mark Grayson,G000556,0.20,0.15,0.13,755
+114,Democratic Party,Ann Leila Kirkpatrick,K000368,0.06,0.03,0.66,1478
+114,Democratic Party,Dina Titus,T000468,0.08,0.16,0.42,999
+114,Republican Party,Tom Cotton,C001095,0.19,0.03,0.36,1497
+114,Democratic Party,Kyrsten Sinema,S001191,0.00,0.02,0.59,3629
+114,Republican Party,Douglas L. 'Doug' LaMalfa,L000578,0.16,0.09,0.52,480
+114,Democratic Party,Jared William Huffman,H001068,0.19,0.16,0.48,1432
+114,Democratic Party,Ami Bera,B001287,0.01,0.03,0.56,1303
+114,Republican Party,Paul Cook,C001094,0.05,0.01,0.55,384
+114,Democratic Party,Eric Swalwell,S001193,0.05,0.06,0.49,1541
+114,Republican Party,David G. Valadao,V000129,0.01,0.01,0.50,354
+114,Democratic Party,Julia Brownley,B001285,0.02,0.04,0.66,605
+114,Democratic Party,Antonio 'Tony' Cardenas,C001097,0.04,0.05,0.44,1433
+114,Democratic Party,Raul Ruiz,R000599,0.01,0.01,0.70,642
+114,Democratic Party,Mark Takano,T000472,0.13,0.18,0.31,581
+114,Democratic Party,Alan S. Lowenthal,L000579,0.01,0.05,0.54,956
+114,Democratic Party,Juan Vargas,V000130,0.00,0.05,0.74,363
+114,Democratic Party,Scott H. Peters,P000608,0.03,0.05,0.59,1026
+114,Democratic Party,Elizabeth H. Esty,E000293,0.03,0.07,0.60,1047
+114,Republican Party,Ted S. Yoho,Y000065,0.14,0.07,0.44,987
+114,Republican Party,Ron DeSantis,D000621,0.21,0.08,0.27,790
+114,Democratic Party,Patrick E Murphy,M001191,0.08,0.14,0.43,1441
+114,Democratic Party,Lois Jane Frankel,F000462,0.03,0.08,0.42,1142
+114,Republican Party,Douglas Allen 'Doug' Collins,C001093,0.24,0.11,0.35,1646
+114,Democratic Party,Tulsi Gabbard,G000571,0.01,0.07,0.48,1167
+114,Democratic Party,Tammy Tammy Duckworth,D000622,0.04,0.07,0.49,1393
+114,Republican Party,Rodney Davis,D000619,0.05,0.02,0.67,1189
+114,Democratic Party,Cheri Bustos,B001286,0.03,0.09,0.59,1137
+114,Republican Party,Jackie Walorski,W000813,0.07,0.04,0.55,1958
+114,Republican Party,Susan W. Brooks,B001284,0.02,0.08,0.65,789
+114,Republican Party,Luke Messer,M001189,0.05,0.07,0.55,908
+114,Republican Party,Garland 'Andy' Barr,B001282,0.22,0.09,0.46,876
+114,Democratic Party,Elizabeth Ann Warren,W000817,0.23,0.20,0.25,673
+114,Democratic Party,Joseph P. 'Joe' Kennedy III,K000379,0.02,0.08,0.49,1015
+114,Democratic Party,John K. Delaney,D000620,0.04,0.05,0.47,2253
+114,Democratic Party,Angus King,K000383,0.00,0.02,0.67,964
+114,Democratic Party,Daniel T. 'Dan' Kildee,K000380,0.06,0.10,0.55,964
+114,Democratic Party,Richard M. 'Rick' Nolan,N000127,0.04,0.05,0.64,934
+114,Republican Party,Ann Wagner,W000812,0.13,0.06,0.45,605
+114,Republican Party,Steve Daines,D000618,0.14,0.02,0.57,755
+114,Republican Party,Richard Hudson,H001067,0.14,0.05,0.46,1067
+114,Republican Party,Robert Pittenger,P000606,0.21,0.10,0.38,1549
+114,Republican Party,Mark Randall Meadows,M001187,0.16,0.09,0.46,787
+114,Republican Party,George E. B. Holding,H001065,0.14,0.04,0.23,381
+114,Democratic Party,Heidi Heitkamp,H001069,0.02,0.03,0.77,1534
+114,Republican Party,Kevin Cramer,C001096,0.15,0.09,0.45,1321
+114,Republican Party,Debra Strobel 'Deb' Fischer,F000463,0.05,0.02,0.57,683
+114,Democratic Party,Ann M. 'Annie' Kuster,K000382,0.02,0.09,0.63,1121
+114,Democratic Party,Michelle Lujan Grisham,L000580,0.03,0.07,0.60,860
+114,Democratic Party,Grace Meng,M001188,0.02,0.03,0.64,985
+114,Democratic Party,Hakeem S. Jeffries,J000294,0.06,0.10,0.33,1359
+114,Democratic Party,Sean Patrick Maloney,M001185,0.01,0.01,0.59,903
+114,Republican Party,Chris Collins,C001092,0.19,0.13,0.52,484
+114,Republican Party,Brad R. Wenstrup,W000815,0.10,0.06,0.45,1196
+114,Democratic Party,Joyce Beatty,B001281,0.02,0.06,0.43,931
+114,Republican Party,David Patrick 'Dave' Joyce,J000295,0.05,0.05,0.51,1222
+114,Republican Party,James Frederick 'Jim' Bridenstine,B001283,0.31,0.10,0.15,1094
+114,Republican Party,Markwayne Mullin,M001190,0.15,0.04,0.47,1229
+114,Republican Party,Scott Perry,P000605,0.07,0.04,0.43,1374
+114,Republican Party,Keith James Rothfus,R000598,0.11,0.05,0.51,883
+114,Democratic Party,Matthew A. 'Matt' Cartwright,C001090,0.00,0.05,0.62,499
+114,Republican Party,Tom Rice,R000597,0.12,0.07,0.56,1056
+114,Republican Party,Rafael Edward 'Ted' Cruz,C001098,0.18,0.16,0.31,3895
+114,Republican Party,Randy K. Weber,W000814,0.08,0.04,0.37,1046
+114,Democratic Party,Beto O'Rourke,O000170,0.01,0.02,0.66,1950
+114,Democratic Party,Joaquin Castro,C001091,0.06,0.11,0.46,724
+114,Republican Party,Roger Williams,W000816,0.25,0.08,0.36,1172
+114,Democratic Party,Marc Allison Veasey,V000131,0.06,0.07,0.59,832
+114,Democratic Party,Filemon Vela,V000132,0.00,0.01,0.81,327
+114,Republican Party,Chris Stewart,S001192,0.12,0.07,0.45,1302
+114,Democratic Party,Timothy 'Tim' Kaine,K000384,0.08,0.16,0.30,761
+114,Democratic Party,Derek Kilmer,K000381,0.01,0.07,0.73,1389
+114,Democratic Party,Denny Heck,H001064,0.02,0.06,0.59,266
+114,Democratic Party,Mark Pocan,P000607,0.11,0.07,0.42,621
+114,Democratic Party,Robin Kelly,K000385,0.03,0.22,0.58,3337
+114,Republican Party,Marshall Clement 'Mark' Sanford Jr.,S000051,0.14,0.12,0.41,741
+114,Republican Party,Jason Thomas Smith,S001195,0.12,0.06,0.62,1048
+114,Democratic Party,Cory Anthony Booker,B001288,0.01,0.04,0.23,3440
+114,Democratic Party,Katherine M. Clark,C001101,0.08,0.14,0.47,944
+114,Republican Party,Bradley Byrne,B001289,0.19,0.07,0.53,2674
+114,Republican Party,David W. Jolly,J000296,0.05,0.04,0.45,970
+114,Republican Party,Curtis 'Curt' Clawson,C001102,0.10,0.09,0.58,111
+114,Republican Party,David Alan 'Dave' Brat,B001290,0.22,0.15,0.35,2605
+114,Democratic Party,Donald W. Norcross,N000188,0.00,0.04,0.72,2218
+114,Democratic Party,Alma Adams,A000370,0.05,0.10,0.61,1092
+114,Republican Party,Bob Dold,D000613,0.02,0.02,0.53,2051
+114,Republican Party,Frank Guinta,G000570,0.13,0.06,0.59,1404
+114,Republican Party,Gary Palmer,P000609,0.08,0.04,0.51,1424
+114,Republican Party,French Hill,H001072,0.08,0.05,0.54,1107
+114,Republican Party,Bruce Eugene Westerman,W000821,0.05,0.02,0.65,1498
+114,Republican Party,Martha McSally,M001197,0.02,0.02,0.60,989
+114,Democratic Party,Ruben Gallego,G000574,0.11,0.12,0.45,1142
+114,Democratic Party,Mark DeSaulnier,D000623,0.02,0.03,0.58,916
+114,Republican Party,Steve Knight,K000387,0.01,0.01,0.73,1448
+114,Democratic Party,Pete Aguilar,A000371,0.07,0.04,0.59,476
+114,Democratic Party,Ted Lieu,L000582,0.12,0.07,0.28,1859
+114,Democratic Party,Norma Torres,T000474,0.01,0.03,0.64,864
+114,Republican Party,Mimi Walters,W000820,0.08,0.09,0.57,1332
+114,Republican Party,Ken Buck,B001297,0.17,0.06,0.36,893
+114,Democratic Party,Gwen Graham,G000575,0.02,0.06,0.67,1344
+114,Republican Party,Carlos Curbelo,C001107,0.05,0.03,0.51,1541
+114,Republican Party,Earl Leroy 'Buddy' Carter,C001103,0.17,0.08,0.53,971
+114,Republican Party,Jody Hice,H001071,0.18,0.06,0.39,713
+114,Republican Party,Barry Loudermilk,L000583,0.15,0.07,0.32,638
+114,Republican Party,Rick Allen,A000372,0.15,0.04,0.50,1093
+114,Democratic Party,Mark Takai,T000473,0.01,0.08,0.61,917
+114,Republican Party,Rodney Leland 'Rod' Blum,B001294,0.05,0.03,0.67,1051
+114,Republican Party,David Young,Y000066,0.01,0.01,0.60,2118
+114,Republican Party,Mike Bost,B001295,0.07,0.02,0.73,1263
+114,Republican Party,Ralph Abraham,A000374,0.09,0.04,0.62,651
+114,Republican Party,Garret Graves,G000577,0.06,0.02,0.67,1304
+114,Democratic Party,Seth Moulton,M001196,0.04,0.09,0.49,634
+114,Republican Party,Bruce Poliquin,P000611,0.13,0.03,0.55,1006
+114,Republican Party,John Moolenaar,M001194,0.09,0.05,0.53,790
+114,Republican Party,Mike Bishop,B001293,0.06,0.03,0.53,1083
+114,Republican Party,David A. 'Dave' Trott,T000475,0.14,0.02,0.46,718
+114,Democratic Party,Debbie Dingell,D000624,0.03,0.08,0.62,824
+114,Democratic Party,Brenda Lawrence,L000581,0.07,0.12,0.51,790
+114,Republican Party,Thomas Earl 'Tom' Emmer Jr.,E000294,0.07,0.04,0.51,813
+114,Republican Party,Ryan Zinke,Z000018,0.16,0.06,0.50,1496
+114,Republican Party,David Rouzer,R000603,0.12,0.07,0.50,1079
+114,Democratic Party,Brad Ashford,A000373,0.01,0.03,0.46,3137
+114,Republican Party,Tom MacArthur,M001193,0.04,0.01,0.65,1393
+114,Democratic Party,Bonnie Watson Coleman,W000822,0.08,0.11,0.39,771
+114,Republican Party,Cresent Hardy,H001070,0.04,0.01,0.65,788
+114,Republican Party,Lee M. Zeldin,Z000017,0.11,0.05,0.43,1373
+114,Democratic Party,Kathleen Rice,R000602,0.02,0.04,0.53,457
+114,Republican Party,Elise Marie Stefanik,S001196,0.02,0.03,0.64,1970
+114,Republican Party,John Michael Katko,K000386,0.02,0.03,0.64,1150
+114,Republican Party,Steve Dane Russell,R000604,0.09,0.06,0.39,520
+114,Republican Party,Ryan Costello,C001106,0.01,0.01,0.71,873
+114,Democratic Party,Brendan Boyle,B001296,0.04,0.05,0.50,801
+114,Republican Party,John Ratcliffe,R000601,0.17,0.10,0.38,1335
+114,Republican Party,Will Hurd,H001073,0.02,0.01,0.52,4312
+114,Republican Party,Brian Babin,B001291,0.22,0.10,0.47,1389
+114,Republican Party,Ludmya Bourdeau 'Mia' Love,L000584,0.07,0.06,0.44,949
+114,Democratic Party,Donald 'Don' Beyer,B001292,0.05,0.16,0.41,1916
+114,Republican Party,Barbara Jean Comstock,C001105,0.03,0.04,0.71,2565
+114,Republican Party,Dan Newhouse,N000189,0.05,0.04,0.70,964
+114,Republican Party,Glenn Grothman,G000576,0.06,0.06,0.71,425
+114,Republican Party,Alex Mooney,M001195,0.10,0.09,0.58,663
+114,Republican Party,Evan Jenkins,J000297,0.06,0.04,0.74,1294
+114,Republican Party,Dan Sullivan,S001198,0.15,0.03,0.60,1046
+114,Republican Party,David Perdue,P000612,0.21,0.09,0.39,1104
+114,Republican Party,Joni Ernst,E000295,0.06,0.04,0.53,1226
+114,Republican Party,Thom Tillis,T000476,0.14,0.03,0.43,967
+114,Republican Party,Mike Rounds,R000605,0.05,0.02,0.64,1038
+114,Republican Party,Bradley 'Mark' Walker,W000819,0.13,0.12,0.56,1194
+114,Republican Party,Benjamin Eric 'Ben' Sasse,S001197,0.12,0.08,0.36,574
+114,Republican Party,Daniel Michael 'Dan' Donovan Jr.,D000625,0.11,0.02,0.50,744
+114,Republican Party,Trent Kelly,K000388,0.03,0.02,0.60,468
+114,Democratic Party,Colleen W. Hanabusa,H001050,0.07,0.20,0.34,41
+114,Republican Party,Aaron Schock,S001179,0.00,0.00,0.70,27
+114,Republican Party,John A. Boehner,B000589,0.29,0.10,0.14,550
+114,Republican Party,Darin LaHood,L000585,0.07,0.06,0.67,688
+114,Republican Party,James Comer,C001108,0.00,0.00,0.33,12
+114,Republican Party,Warren Davidson,D000626,0.16,0.07,0.38,312
+114,Democratic Party,Dwight Evans,E000296,0.00,0.00,0.79,24
